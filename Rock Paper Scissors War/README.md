@@ -6,7 +6,7 @@
 
 ### Random features
 
-- Press K to summon more players when the game is running.
+- Press `k` to summon more players when the game is running.
 - Try running the `satisfying_version.py` file.
 
 ### Requirements
