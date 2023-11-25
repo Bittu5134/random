@@ -1,15 +1,15 @@
-# A GUI based Rock Paper Scissors game where ROCK PAPER and SCISSOR litereally fight each other.
+## A GUI based Rock Paper Scissors game where ROCK PAPER and SCISSOR litereally fight each other.
 
-## How to play
+### How to play
 
-- Just run the main.py file.
+- Just run the `main.py` file.
 
-## Random features
+### Random features
 
 - Press K to summon more players when the game is running.
-- Try running the satisfying_version.py file.
+- Try running the `satisfying_version.py` file.
 
-## Requirements
+### Requirements
 
 ```yaml
 - pygame
