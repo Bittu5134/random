@@ -35,4 +35,6 @@ This is the Minecraft map made for [Capitaine Kirk](https://www.youtube.com/@Cap
 - Lava Pool: 383 63 350
 - Desert Pyramid: 490 65 362
 - Ship Wreck: 455 63 720
-- Fortress: || -453 61 -207 ||
+- Fortress: -453 61 -207
+- Manshion: 538 65 1442
+- End Portal: 209 14 2105
