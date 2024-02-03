@@ -16,7 +16,7 @@ This is the Minecraft map made for [Capitaine Kirk](https://www.youtube.com/@Cap
 
 1. Download the `world [extract].zip` and `resourcepack.zip` file
 1. Extract the `world [extract].zip` file
-1. copy the `world` folder to you `.minecraft/saves` folder
+1. copy the `world` folder to your `.minecraft/saves` folder
 1. Copy the `resourcepack.zip` file to your `.minecraft/resourcepack` folder
 1. It is recommended to use [Optifine](https://optifine.net) or [ETF](https://modrinth.com/mod/entitytexturefeatures) on Fabric for Custom Mob Textures.
 
