@@ -32,31 +32,28 @@ This map was used in [This Video](https://www.youtube.com/watch?v=rLbAXGV3IZ4)
 
 - Just join the world.
 - Run these commands.
-```elixir
-/tag @s remove dpc.load
-/reload
-```
-- You are all set to play
 
-### Utility Commands
+### Important Crafting recepies
 
-- `/function dpc:skin` Update the player skin based on the Biome. please run this command after completeing every level.
-- `/function dpc:teleport` Teleport the player to a nearby location of the target biome since biomes can be thousands of block away
-- `/function dpc:levels/<stage>/complete` Force complete a stage, replace `<stage>` with any value between 1-10
+<details>
+<summary>Atlas</summary>
 
-
-### Crafting recepies
-
-- Atlas
 ![alt text](atlas.png)
+</details>
 
-- Lush Fork Handle
+<details>
+<summary>Lush Fork Handle</summary>
+
 ![alt text](lush-fork-handle.png)
+</details>
 
-- Ocean Fork
+<details>
+<summary>Ocean Fork</summary>
+
 ![alt text](ocean-fork.png)
+</details>
 
-- Other Forks
+**Other Forks**
 ```
 A A A
 _ B _
