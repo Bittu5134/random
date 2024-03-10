@@ -1,9 +1,6 @@
-# Minecraft But Health = World Size
-
+# Minecraft But you Can eat Biomes
 
 This is the Minecraft map made for [Capitaine Kirk](https://www.youtube.com/@CapitaineKirk)
-This map was used in [This Video](https://www.youtube.com/watch?v=rLbAXGV3IZ4)
-
 
 ### Featues
 
@@ -32,6 +29,11 @@ This map was used in [This Video](https://www.youtube.com/watch?v=rLbAXGV3IZ4)
 
 - Just join the world.
 - Run these commands.
+```elixir
+/tag @s remove dpc.load
+/reload
+```
+
 
 ### Important Crafting recepies
 
