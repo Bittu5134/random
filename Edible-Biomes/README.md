@@ -76,39 +76,56 @@ in all these cases `C` will be the fork handle of the respective biome.
 
 ## Tips and trick
 
-### Plains biome
+<details>
+<summary>Plains biome</summary>
 
 you will be given a Plains fork. right click it to eat the biome.
+</details>
 
-### Desert Biome
+<details>
+<summary>Desert Biome</summary>
 
 The atlas will lead you to the desert temple. Explode its TNT to get the fork handle.
+</details>
 
-### Tiaga Biome
+<details>
+<summary>Tiaga Biome</summary>
 
 You have to use a shovel to put out all the campfires in the Tiaga village
+</details>
 
-### Lush Caves
+<details>
+<summary>Lush Caves</summary>
 
 Find the Amethyst geode.
+</details>
 
-### Jungle
+<details>
+<summary>Jungle</summary>
 
 Fight the Kong mini-boss to clear this level
+</details>
 
-### Mountain
+<details>
+<summary>Mountain</summary>
 
 Kill the Ice-Illager Boss to complete this level
+</details>
 
-### Ocean
+<details>
+<summary>Ocean</summary>
 
 Find the Pirate Ship and kill all its Pirates.
+</details>
 
-### Mushroom island
+<details>
+<summary>Mushroom island</summary>
 
 Use Shears to remove fungus from cows
+</details>
 
-### Ice Spikes
+<details>
+<summary>Ice Spikes</summary>
 
 This will be the final boss fight
 Make sure to not damage the nearby area because then it wont look good.
@@ -117,3 +134,15 @@ Then use the Fork to eat the biome(please go underground dont damage hte top lan
 After that its just wait and watch.
 make sure to watch the Boss from little far away
 The rest will be done automatically
+</details>
+
+
+## Gallery
+
+Image and a Video Clip from the final boss fight
+
+![alt text](gallery1.png)
+
+![Boss Dies](video.mp4)
+
+
