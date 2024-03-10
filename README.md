@@ -1,6 +1,7 @@
 # Minecraft But Health = World Size
 
 
+<<<<<<< HEAD
 This is the Minecraft map made for [Capitaine Kirk](https://www.youtube.com/@CapitaineKirk)
 
 
@@ -120,3 +121,9 @@ Then use the Fork to eat the biome(please go underground dont damage hte top lan
 After that its just wait and watch.
 make sure to watch the Boss from little far away
 The rest will be done automatically
+=======
+- [**Rock Paper Scissors conole**](Rock%20Paper%20Scissors%20Console/README.md)
+- [**Rock paper scissors war**](Rock%20Paper%20Scissors%20War/README.md)
+- [**Hearts = World Size Map**](Minecraft-Map-hearts-equals-world-size/README.md)
+- [**Edible Biomes Map**](Edible-Biomes/README.md)
+>>>>>>> e4d2c8e87a8293bf324e14f5f646ec306485508c
