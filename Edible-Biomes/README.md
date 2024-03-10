@@ -133,6 +133,7 @@ First destroy the 3 crystals near the Alchemy Circle on top of the tall pillars
 Then use the Fork to eat the biome(please go underground dont damage hte top land)
 After that its just wait and watch.
 make sure to watch the Boss from little far away
+
 The rest will be done automatically
 </details>
 
@@ -142,7 +143,7 @@ The rest will be done automatically
 Image and a Video Clip from the final boss fight
 
 ![alt text](gallery1.png)
+https://github.com/Bittu5134/random/assets/89441005/a72e4976-359c-46e8-aa44-1066fe4e1c9f
 
-![Boss Dies](video.mp4)
 
 
