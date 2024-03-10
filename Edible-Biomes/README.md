@@ -61,7 +61,7 @@ A A A
 _ B _
 _ C _
 ```
-In a crafting table place the items in the above pattern and select the items absed on the list provided below.
+In a crafting table place the items in the above pattern and select the items based on the list provided below.
 in all these cases `C` will be the fork handle of the respective biome.
 
 | Biome        | A              | B               |
@@ -79,7 +79,7 @@ in all these cases `C` will be the fork handle of the respective biome.
 <details>
 <summary>Plains biome</summary>
 
-you will be given a Plains fork. right click it to eat the biome.
+you will be given a Plains fork. Right-click it to eat the biome.
 </details>
 
 <details>
@@ -128,11 +128,11 @@ Use Shears to remove fungus from cows
 <summary>Ice Spikes</summary>
 
 This will be the final boss fight
-Make sure to not damage the nearby area because then it wont look good.
-First destroy the 3 crystals near the Alchemy Circle on top of the tall pillars
-Then use the Fork to eat the biome(please go underground dont damage hte top land)
-After that its just wait and watch.
-make sure to watch the Boss from little far away
+Make sure not to damage the nearby area because it won't look good.
+First, destroy the 3 crystals near the Alchemy Circle on top of the tall pillars
+Then use the Fork to eat the biome(please go underground don't damage the top land)
+After that, it's wait and watch.
+make sure to watch the Boss from a little far away
 
 The rest will be done automatically
 </details>
