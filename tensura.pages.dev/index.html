@@ -3,41 +3,70 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tensura Fan Portal</title>
-    <meta name="description" content="A fan portal for That Time I Got Reincarnated as a Slime (Tensura).">
-    <meta name="keywords" content="Tensura, anime, manga, fan site">
-    <meta name="author" content="Tensura Fan">
+    <title>Tensura Fan Portal: Dive into That Time I Got Reincarnated as a Slime</title>
+    <meta name="description" content="Explore the world of Tensura (That Time I Got Reincarnated as a Slime)! Discover anime, manga, light novels, web novels, and connect with the fan community.">
+    <meta name="keywords" content="Tensura, That Time I Got Reincarnated as a Slime, anime, manga, light novel, web novel, Rimuru Tempest, fan site, community">
+    <meta name="author" content="Bittu5134">
+    <meta name="google-site-verification" content="Z5Q5ndqYH2RMiFwVqu-SgMmvvjtMoR4JHtue3fRKkU8" />
+    
+    <meta property="og:title" content="Tensura Fan Portal: Dive into That Time I Got Reincarnated as a Slime">
+    <meta property="og:description" content="Explore the world of Tensura (That Time I Got Reincarnated as a Slime)! Discover anime, manga, light novels, web novels, and connect with the fan community.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://tensura.pages.dev"> <meta property="og:image" content="hero.jpeg"> <meta property="og:image:alt" content="A captivating image related to That Time I Got Reincarnated as a Slime">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:site_name" content="Tensura Fan Portal">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Tensura Fan Portal: Dive into That Time I Got Reincarnated as a Slime">
+    <meta name="twitter:description" content="Explore the world of Tensura (That Time I Got Reincarnated as a Slime)! Discover anime, manga, light novels, web novels, and connect with the fan community.">
+    <meta name="twitter:image" content="hero.jpeg">
     <style>
-        body { font: 16px sans-serif; background-color: #1a202c; color: #f7fafc; margin: 0; padding: 0; scroll-behavior: smooth; text-align: center; scroll-padding-top: 4rem; }
+        body { font: 16px sans-serif; background-color: #1a202c; color: #e2e8f0; margin: 0; padding: 0; scroll-behavior: smooth; text-align: center; scroll-padding-top: 4rem; position: relative; overflow-x: hidden; }
         .container { max-width: 960px; margin: 0 auto; padding: 20px; text-align: left; }
         .header { background-color: #2d3748; padding: 1rem 0; position: sticky; top: 0; z-index: 10; display: flex; align-items: center; }
         .header .container { display: flex; justify-content: space-between; align-items: center; }
-        .logo { font-size: 1.5rem; font-weight: bold; color: #86efac; text-decoration: none; }
+        .logo { font-size: 1.5rem; font-weight: bold; color: #6699cc; text-decoration: none; }
         .nav ul { list-style: none; padding: 0; margin: 0; display: flex; }
         .nav li { margin-left: 1rem; }
         .nav a { color: #cbd5e0; text-decoration: none; transition: color 0.3s ease; }
-        .nav a:hover { color: #a7f3d0; }
-        .hero { padding: 12rem 0 6rem; text-align: center; background: url('https://github.com/Bittu5134/random/raw/refs/heads/main/tensura.pages.dev/hero.jpeg') center top / cover no-repeat; color: #f7fafc; position: relative; overflow: hidden; margin-top: 4rem; }
+        .nav a:hover { color: #9ecae6; }
+        .hero { padding: 12rem 0 6rem; text-align: center; background: url('hero.jpeg') center top / cover no-repeat; color: #f7fafc; position: relative; overflow: hidden; margin-top: 4rem; }
         .hero::before { content: ""; position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.5); z-index: 1; }
         .hero-content { position: relative; z-index: 2; padding: 1rem; max-width: 800px; margin: 0 auto; }
-        .hero h1 { font-size: 3rem; color: #a7f3d0; margin-bottom: 1.5rem; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8); }
-        .hero p { color: #cbd5e0; font-size: 1.2rem; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8); margin-bottom: 2rem; }
-        .cta { display: inline-block; background-color: #86efac; color: #1a202c; padding: 1rem 2rem; text-decoration: none; border-radius: 0.5rem; font-weight: bold; transition: background-color 0.3s ease, box-shadow 0.3s ease; box-shadow: 0 0 10px rgba(134, 239, 172, 0.5); }
-        .cta:hover { background-color: #a7f3d0; box-shadow: 0 0 15px rgba(167, 243, 208, 0.8); }
+        .hero h1 { font-size: 3rem; color: #9ecae6; margin-bottom: 1.5rem; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8); }
+        .hero p { color: #e2e8f0; font-size: 1.2rem; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8); margin-bottom: 2rem; }
+        .cta { display: inline-block; background-color: #6699cc; color: #1a202c; padding: 1rem 2rem; text-decoration: none; border-radius: 0.5rem; font-weight: bold; transition: background-color 0.3s ease, box-shadow 0.3s ease; box-shadow: 0 0 10px rgba(102, 153, 204, 0.5); }
+        .cta:hover { background-color: #9ecae6; box-shadow: 0 0 15px rgba(158, 202, 230, 0.8); }
         .section { padding: 2rem 0; text-align: center; max-width: 800px; margin: 0 auto; }
-        .section h2 { font-size: 2.2rem; color: #86efac; margin-bottom: 1rem; }
+        .section h2 { font-size: 2.2rem; color: #6699cc; margin-bottom: 1rem; }
         .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 1.2rem; margin-top: 1.5rem; }
-        .grid a { display: block; background-color: #2d3748; color: #f7fafc; padding: 1.2rem; text-align: center; border-radius: 0.5rem; text-decoration: none; transition: background-color 0.3s ease, box-shadow 0.3s ease; }
-        .grid a:hover { background-color: #374151; box-shadow: 0 0 8px rgba(134, 239, 172, 0.7); }
+        .grid a { display: block; background-color: #2d3748; color: #e2e8f0; padding: 1.2rem; text-align: center; border-radius: 0.5rem; text-decoration: none; transition: background-color 0.3s ease, box-shadow 0.3s ease; }
+        .grid a:hover { background-color: #374151; box-shadow: 0 0 8px rgba(102, 153, 204, 0.7); }
         .footer { background-color: #2d3748; color: #a0aec0; text-align: center; padding: 1.5rem 0; margin-top: 3rem; }
         .footer .container { display: flex; justify-content: center; align-items: center; gap: 1rem; }
         .footer p { margin: 0; } /* Remove default margin for the paragraph */
-        .footer a { color: #a7f3d0; text-decoration: none; font-weight: bold; transition: color 0.3s ease; /* Add spacing */ }
-        .footer a:hover { color: #86efac; }
-        .about { text-align: left; color: #cbd5e0; line-height: 1.7; font-size: 1.1rem; }
+        .footer a { color: #9ecae6; text-decoration: none; font-weight: bold; transition: color 0.3s ease; /* Add spacing */ }
+        .footer a:hover { color: #6699cc; }
+        .about { text-align: left; color: #e2e8f0; line-height: 1.7; font-size: 1.1rem; }
+
+        /* Blurry Blob Styles */
+        .blurry-blob {
+            position: fixed;
+            width: 150px;
+            height: 150px;
+            background: #6699cc;
+            border-radius: 50%;
+            filter: blur(50px);
+            z-index: -1;
+            pointer-events: none;
+            transform: translate(-50%, -50%);
+            /* Increased transition duration for slower movement */
+            transition: left 0.5s ease-out, top 0.5s ease-out;
+        }
     </style>
 </head>
 <body>
+    <div class="blurry-blob" id="blob"></div>
     <header class="header">
         <div class="container">
             <a href="#" class="logo">Tensura Portal</a>
@@ -70,22 +99,22 @@
         <section id="media" class="section">
             <h2>Explore Tensura Media</h2>
             <div class="grid">
-                <a href="https://kuroiru.co/anime/37430/That_Time_I_Got_Reincarnated_as_a_Slime#tab=streams" target="_blank" rel="noopener noreferrer">Watch Anime</a>
-                <a href="https://comick.io/comic/04-tensei-shitara-slime-datta-ken" target="_blank" rel="noopener noreferrer">Read Manga</a>
-                <a href="https://tensurafan.github.io/" target="_blank" rel="noopener noreferrer">Read Novel</a>
-                <a href="http://gurotranslation.blogspot.com/p/ioduction.html?m=1" target="_blank" rel="noopener noreferrer">Read Webnovel</a>
+                <a href="https://kuroiru.co/anime/37430/That_Time_I_Got_Reincarnated_as_a_Slime#tab=streams" target="_blank" rel="noopener noreferrer" title="Watch Tensura Anime">Watch Anime</a>
+                <a href="https://comick.io/comic/04-tensei-shitara-slime-datta-ken" target="_blank" rel="noopener noreferrer" title="Read Tensura Manga">Read Manga</a>
+                <a href="https://tensurafan.github.io/" target="_blank" rel="noopener noreferrer" title="Read Tensura Light Novel">Read Novel</a>
+                <a href="http://gurotranslation.blogspot.com/p/ioduction.html?m=1" target="_blank" rel="noopener noreferrer" title="Read Tensura Web Novel">Read Webnovel</a>
             </div>
         </section>
 
         <section id="community" class="section">
             <h2>Connect with the Tensura Community</h2>
             <div class="grid">
-                <a href="https://discord.com/invite/tenseislime" target="_blank" rel="noopener noreferrer">Discord</a>
-                <a href="https://www.reddit.com/r/TenseiSlime/" target="_blank" rel="noopener noreferrer">Reddit</a>
-                <a href="https://tensura.fandom.com/wiki/Home" target="_blank" rel="noopener noreferrer">Wiki</a>
-                <a href="https://anilist.co/" target="_blank" rel="noopener noreferrer">AniList</a>
-                <a href="https://myanimelist.net/" target="_blank" rel="noopener noreferrer">MyAnimeList</a>
-                <a href="https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13871" target="_blank" rel="noopener noreferrer">AniDB</a>
+                <a href="https://discord.com/invite/tenseislime" target="_blank" rel="noopener noreferrer" title="Join the Tensura Discord Community">Discord</a>
+                <a href="https://www.reddit.com/r/TenseiSlime/" target="_blank" rel="noopener noreferrer" title="Visit the Tensura Reddit Community">Reddit</a>
+                <a href="https://tensura.fandom.com/wiki/Home" target="_blank" rel="noopener noreferrer" title="Explore the Tensura Wiki">Wiki</a>
+                <a href="https://anilist.co/" target="_blank" rel="noopener noreferrer" title="Track Tensura on AniList">AniList</a>
+                <a href="https://myanimelist.net/" target="_blank" rel="noopener noreferrer" title="Track Tensura on MyAnimeList">MyAnimeList</a>
+                <a href="https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13871" target="_blank" rel="noopener noreferrer" title="View Tensura on AniDB">AniDB</a>
             </div>
         </section>
     </main>
@@ -100,6 +129,26 @@
         const s = (t, o = -50) => { const e = document.querySelector(t); if (e) window.scrollTo({ top: e.offsetTop + o, behavior: 'smooth' }); };
         document.querySelectorAll('nav a, .cta').forEach(a => a.addEventListener('click', function(e) { e.preventDefault(); s(this.getAttribute('href')); }));
         console.log("Adding awesome single-page effects!");
+
+        // Blurry Blob Behavior
+        const blob = document.getElementById('blob');
+
+        document.addEventListener('mousemove', (e) => {
+            blob.style.left = `${e.clientX}px`;
+            blob.style.top = `${e.clientY}px`;
+        });
+
+        document.addEventListener('touchmove', (e) => {
+            const touch = e.touches[0];
+            blob.style.left = `${touch.clientX}px`;
+            blob.style.top = `${touch.clientY}px`;
+        });
+
+        document.addEventListener('touchstart', (e) => {
+            const touch = e.touches[0];
+            blob.style.left = `${touch.clientX}px`;
+            blob.style.top = `${touch.clientY}px`;
+        }, { passive: true });
     </script>
 </body>
-</html>
+                </html>
