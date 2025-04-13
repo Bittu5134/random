@@ -1,1 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Tensura</title>
+    <meta name="description" content="A fan website dedicated to That Time I Got Reincarnated as a Slime (Tensura). Find information, links, and more.">
+    <meta name="keywords" content="Tensura, That Time I Got Reincarnated as a Slime, Rimuru Tempest, anime, manga, novel, fan site">
+    <meta name="author" content="Tensura Fan">
+    <meta property="og:title" content="About Tensura">
+    <meta property="og:description" content="A fan website dedicated to That Time I Got Reincarnated as a Slime (Tensura). Find information, links, and more.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://tensura.pages.dev"> <meta name="robots" content="index, follow">
+    <meta name="googlebot" content="index, follow">
+    <meta name="google-site-verification" content="Z5Q5ndqYH2RMiFwVqu-SgMmvvjtMoR4JHtue3fRKkU8" />
 
+    <style>
+        body {
+            background-color: #1a202c;
+            color: #f7fafc;
+            font-family: sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        a {
+            color: #3b82f6;
+            text-decoration: underline;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding-left: 1rem;
+            padding-right: 1rem;
+        }
+        header {
+            padding-top: 1.5rem;
+            padding-bottom: 1.5rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        h1 {
+            font-size: 1.875rem; /* Equivalent to text-3xl */
+            font-weight: bold; /* Equivalent to font-bold */
+            color: #86efac; /* Equivalent to text-green-400 */
+            position: relative;
+            padding-bottom: 0.3rem;
+        }
+        h1::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            width: 100%;
+            height: 0.2rem;
+            background-color: #22c55e; /* Equivalent to bg-green-500 */
+            border-radius: 0.1rem;
+        }
+        main {
+            padding-top: 2rem;
+            padding-bottom: 2rem;
+        }
+        .wide-layout {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+        .wide-layout > section {
+            background-color: #2d3748; /* Equivalent to bg-gray-800 */
+            border-radius: 0.5rem; /* Equivalent to rounded-lg */
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06); /* Equivalent to shadow-md */
+            padding: 1.5rem; /* Equivalent to p-6 */
+        }
+        h2 {
+            font-size: 1.5rem; /* Equivalent to text-2xl */
+            font-weight: 600; /* Equivalent to font-semibold */
+            color: #a7f3d0; /* Equivalent to text-green-300 */
+            margin-bottom: 1rem; /* Equivalent to mb-4 */
+        }
+        p {
+            color: #cbd5e0; /* Equivalent to text-gray-300 */
+            line-height: 1.625; /* Approximating leading-relaxed */
+        }
+        ul {
+            list-style-type: disc;
+            padding-left: 1.5rem;
+            margin-left: 0.5rem;
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem; /* Equivalent to space-y-2 */
+        }
+        li {
+            color: #cbd5e0; /* Equivalent to text-gray-300 */
+        }
+        footer {
+            background-color: #2d3748; /* Equivalent to bg-gray-800 */
+            color: #a0aec0; /* Equivalent to text-gray-400 */
+            padding-top: 1rem;
+            padding-bottom: 1rem;
+            text-align: center;
+        }
+        #slime-blob {
+            background: linear-gradient(to bottom, #86efac, #22c55e);
+            border-radius: 50%;
+            width: 12.5rem; /* Equivalent to 200px */
+            height: 12.5rem; /* Equivalent to 200px */
+            position: fixed;
+            top: 80%;
+            left: 85%;
+            transform: translate(-50%, -50%);
+            opacity: 0.6;
+            filter: blur(50px); /* Adjusted blur for vanilla CSS */
+            z-index: -1;
+            pointer-events: none;
+        }
+
+        /* Responsive layout */
+        @media (min-width: 800px) {
+            .wide-layout {
+                display: grid;
+                grid-template-columns: 1fr 1fr;
+                grid-template-rows: auto auto;
+                gap: 1rem;
+            }
+            .wide-layout > section:first-child {
+                grid-column: 1;
+                grid-row: 1 / span 2;
+            }
+            .wide-layout > section:nth-child(2) {
+                grid-column: 2;
+                grid-row: 1;
+            }
+            .wide-layout > section:nth-child(3) {
+                grid-column: 2;
+                grid-row: 2;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div id="slime-blob"></div>
+
+    <header class="container">
+        <h1>About Tensura</h1>
+    </header>
+
+    <main class="container wide-layout">
+        <section>
+            <h2>Synopsis</h2>
+            <p>
+                Lonely thirty-seven-year-old Satoru Mikami is stuck in a dead-end job, unhappy with his mundane life,
+                but after dying at the hands of a robber, they awaken to a fresh start in a fantasy realm... as a slime!
+                As Rimuru acclimates to their new, goopy, existence, their exploits with the other monsters set off a
+                chain of events that will change the world forever!
+            </p>
+        </section>
+
+        <section>
+            <h2>Media</h2>
+            <ul>
+                <li>
+                    <a href="https://kuroiru.co/anime/37430/That_Time_I_Got_Reincarnated_as_a_Slime#tab=streams" target="_blank" rel="noopener noreferrer">
+                        Stream Online
+                    </a>
+                </li>
+                <li>
+                    <a href="https://comick.io/comic/04-tensei-shitara-slime-datta-ken" target="_blank" rel="noopener noreferrer">
+                        Read Manga
+                    </a>
+                </li>
+                <li>
+                    <a href="https://tensurafan.github.io/" target="_blank" rel="noopener noreferrer">
+                        Read Novel
+                    </a>
+                </li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Community Links</h2>
+            <ul>
+                <li>
+                    <a href="https://anilist.co/anime/101280/Tensei-Shitara-Slime-Datta-Ken" target="_blank" rel="noopener noreferrer">
+                        AniList
+                    </a>
+                </li>
+                <li>
+                    <a href="https://myanimelist.net/anime/37430/Tensei_shitara_Slime-Datta-Ken" target="_blank" rel="noopener noreferrer">
+                        MyAnimeList
+                    </a>
+                </li>
+                <li>
+                    <a href="https://discord.com/invite/tenseislime" target="_blank" rel="noopener noreferrer">
+                        Discord
+                    </a>
+                </li>
+                <li>
+                    <a href="https://tensura.fandom.com/wiki/Home" target="_blank" rel="noopener noreferrer">
+                        Wiki
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.reddit.com/r/TenseiSlime/" target="_blank" rel="noopener noreferrer">
+                        Reddit
+                    </a>
+                </li>
+            </ul>
+        </section>
+    </main>
+
+    <footer class="container">
+        <p>&copy; 2025 Tensura Fan Site. All rights reserved. This is a fan-made website.</p>
+    </footer>
+
+</body>
+  </html>
