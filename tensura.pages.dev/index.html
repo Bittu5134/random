@@ -3,214 +3,103 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Tensura</title>
-    <meta name="description" content="A fan website dedicated to That Time I Got Reincarnated as a Slime (Tensura). Find information, links, and more.">
-    <meta name="keywords" content="Tensura, That Time I Got Reincarnated as a Slime, Rimuru Tempest, anime, manga, novel, fan site">
+    <title>Tensura Fan Portal</title>
+    <meta name="description" content="A fan portal for That Time I Got Reincarnated as a Slime (Tensura).">
+    <meta name="keywords" content="Tensura, anime, manga, fan site">
     <meta name="author" content="Tensura Fan">
-    <meta property="og:title" content="About Tensura">
-    <meta property="og:description" content="A fan website dedicated to That Time I Got Reincarnated as a Slime (Tensura). Find information, links, and more.">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://tensura.pages.dev"> <meta name="robots" content="index, follow">
-    <meta name="googlebot" content="index, follow">
-    <meta name="google-site-verification" content="Z5Q5ndqYH2RMiFwVqu-SgMmvvjtMoR4JHtue3fRKkU8" />
-
     <style>
-        body {
-            background-color: #1a202c;
-            color: #f7fafc;
-            font-family: sans-serif;
-            margin: 0;
-            padding: 0;
-        }
-        a {
-            color: #3b82f6;
-            text-decoration: underline;
-        }
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding-left: 1rem;
-            padding-right: 1rem;
-        }
-        header {
-            padding-top: 1.5rem;
-            padding-bottom: 1.5rem;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-        h1 {
-            font-size: 1.875rem; /* Equivalent to text-3xl */
-            font-weight: bold; /* Equivalent to font-bold */
-            color: #86efac; /* Equivalent to text-green-400 */
-            position: relative;
-            padding-bottom: 0.3rem;
-        }
-        h1::before {
-            content: '';
-            position: absolute;
-            left: 0;
-            bottom: 0;
-            width: 100%;
-            height: 0.2rem;
-            background-color: #22c55e; /* Equivalent to bg-green-500 */
-            border-radius: 0.1rem;
-        }
-        main {
-            padding-top: 2rem;
-            padding-bottom: 2rem;
-        }
-        .wide-layout {
-            display: flex;
-            flex-direction: column;
-            gap: 1rem;
-        }
-        .wide-layout > section {
-            background-color: #2d3748; /* Equivalent to bg-gray-800 */
-            border-radius: 0.5rem; /* Equivalent to rounded-lg */
-            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06); /* Equivalent to shadow-md */
-            padding: 1.5rem; /* Equivalent to p-6 */
-        }
-        h2 {
-            font-size: 1.5rem; /* Equivalent to text-2xl */
-            font-weight: 600; /* Equivalent to font-semibold */
-            color: #a7f3d0; /* Equivalent to text-green-300 */
-            margin-bottom: 1rem; /* Equivalent to mb-4 */
-        }
-        p {
-            color: #cbd5e0; /* Equivalent to text-gray-300 */
-            line-height: 1.625; /* Approximating leading-relaxed */
-        }
-        ul {
-            list-style-type: disc;
-            padding-left: 1.5rem;
-            margin-left: 0.5rem;
-            display: flex;
-            flex-direction: column;
-            gap: 0.5rem; /* Equivalent to space-y-2 */
-        }
-        li {
-            color: #cbd5e0; /* Equivalent to text-gray-300 */
-        }
-        footer {
-            background-color: #2d3748; /* Equivalent to bg-gray-800 */
-            color: #a0aec0; /* Equivalent to text-gray-400 */
-            padding-top: 1rem;
-            padding-bottom: 1rem;
-            text-align: center;
-        }
-        #slime-blob {
-            background: linear-gradient(to bottom, #86efac, #22c55e);
-            border-radius: 50%;
-            width: 12.5rem; /* Equivalent to 200px */
-            height: 12.5rem; /* Equivalent to 200px */
-            position: fixed;
-            top: 80%;
-            left: 85%;
-            transform: translate(-50%, -50%);
-            opacity: 0.6;
-            filter: blur(50px); /* Adjusted blur for vanilla CSS */
-            z-index: -1;
-            pointer-events: none;
-        }
-
-        /* Responsive layout */
-        @media (min-width: 800px) {
-            .wide-layout {
-                display: grid;
-                grid-template-columns: 1fr 1fr;
-                grid-template-rows: auto auto;
-                gap: 1rem;
-            }
-            .wide-layout > section:first-child {
-                grid-column: 1;
-                grid-row: 1 / span 2;
-            }
-            .wide-layout > section:nth-child(2) {
-                grid-column: 2;
-                grid-row: 1;
-            }
-            .wide-layout > section:nth-child(3) {
-                grid-column: 2;
-                grid-row: 2;
-            }
-        }
+        body { font: 16px sans-serif; background-color: #1a202c; color: #f7fafc; margin: 0; padding: 0; scroll-behavior: smooth; text-align: center; scroll-padding-top: 4rem; }
+        .container { max-width: 960px; margin: 0 auto; padding: 20px; text-align: left; }
+        .header { background-color: #2d3748; padding: 1rem 0; position: sticky; top: 0; z-index: 10; display: flex; align-items: center; }
+        .header .container { display: flex; justify-content: space-between; align-items: center; }
+        .logo { font-size: 1.5rem; font-weight: bold; color: #86efac; text-decoration: none; }
+        .nav ul { list-style: none; padding: 0; margin: 0; display: flex; }
+        .nav li { margin-left: 1rem; }
+        .nav a { color: #cbd5e0; text-decoration: none; transition: color 0.3s ease; }
+        .nav a:hover { color: #a7f3d0; }
+        .hero { padding: 12rem 0 6rem; text-align: center; background: url('https://github.com/Bittu5134/random/raw/refs/heads/main/tensura.pages.dev/hero.jpeg') center top / cover no-repeat; color: #f7fafc; position: relative; overflow: hidden; margin-top: 4rem; }
+        .hero::before { content: ""; position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.5); z-index: 1; }
+        .hero-content { position: relative; z-index: 2; padding: 1rem; max-width: 800px; margin: 0 auto; }
+        .hero h1 { font-size: 3rem; color: #a7f3d0; margin-bottom: 1.5rem; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8); }
+        .hero p { color: #cbd5e0; font-size: 1.2rem; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8); margin-bottom: 2rem; }
+        .cta { display: inline-block; background-color: #86efac; color: #1a202c; padding: 1rem 2rem; text-decoration: none; border-radius: 0.5rem; font-weight: bold; transition: background-color 0.3s ease, box-shadow 0.3s ease; box-shadow: 0 0 10px rgba(134, 239, 172, 0.5); }
+        .cta:hover { background-color: #a7f3d0; box-shadow: 0 0 15px rgba(167, 243, 208, 0.8); }
+        .section { padding: 2rem 0; text-align: center; max-width: 800px; margin: 0 auto; }
+        .section h2 { font-size: 2.2rem; color: #86efac; margin-bottom: 1rem; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 1.2rem; margin-top: 1.5rem; }
+        .grid a { display: block; background-color: #2d3748; color: #f7fafc; padding: 1.2rem; text-align: center; border-radius: 0.5rem; text-decoration: none; transition: background-color 0.3s ease, box-shadow 0.3s ease; }
+        .grid a:hover { background-color: #374151; box-shadow: 0 0 8px rgba(134, 239, 172, 0.7); }
+        .footer { background-color: #2d3748; color: #a0aec0; text-align: center; padding: 1.5rem 0; margin-top: 3rem; }
+        .footer .container { display: flex; justify-content: center; align-items: center; gap: 1rem; }
+        .footer p { margin: 0; } /* Remove default margin for the paragraph */
+        .footer a { color: #a7f3d0; text-decoration: none; font-weight: bold; transition: color 0.3s ease; /* Add spacing */ }
+        .footer a:hover { color: #86efac; }
+        .about { text-align: left; color: #cbd5e0; line-height: 1.7; font-size: 1.1rem; }
     </style>
 </head>
 <body>
-    <div id="slime-blob"></div>
-
-    <header class="container">
-        <h1>About Tensura</h1>
+    <header class="header">
+        <div class="container">
+            <a href="#" class="logo">Tensura Portal</a>
+            <nav class="nav">
+                <ul>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#media">Media</a></li>
+                    <li><a href="#community">Community</a></li>
+                </ul>
+            </nav>
+        </div>
     </header>
 
-    <main class="container wide-layout">
-        <section>
-            <h2>Synopsis</h2>
-            <p>
-                Lonely thirty-seven-year-old Satoru Mikami is stuck in a dead-end job, unhappy with his mundane life,
-                but after dying at the hands of a robber, they awaken to a fresh start in a fantasy realm... as a slime!
-                As Rimuru acclimates to their new, goopy, existence, their exploits with the other monsters set off a
-                chain of events that will change the world forever!
+    <main class="container">
+        <section id="hero" class="hero">
+            <div class="hero-content">
+                <h1>Dive into the World of Tensura</h1>
+                <p>Discover the fascinating story of Rimuru Tempest and the Jura Tempest Federation.</p>
+                <a href="#about" class="cta">Learn More</a>
+            </div>
+        </section>
+
+        <section id="about" class="section">
+            <h2>About Tensura</h2>
+            <p class="about">
+                Lonely 37-year-old Satoru Mikami is stuck in a dead-end job, unhappy with his mundane life, but after dying at the hands of a robber, they awaken to a fresh start in a fantasy realm... as a slime! As Rimuru acclimates to their new, goopy, existence, their exploits with the other monsters set off a chain of events that will change the world forever!
             </p>
         </section>
 
-        <section>
-            <h2>Media</h2>
-            <ul>
-                <li>
-                    <a href="https://kuroiru.co/anime/37430/That_Time_I_Got_Reincarnated_as_a_Slime#tab=streams" target="_blank" rel="noopener noreferrer">
-                        Stream Online
-                    </a>
-                </li>
-                <li>
-                    <a href="https://comick.io/comic/04-tensei-shitara-slime-datta-ken" target="_blank" rel="noopener noreferrer">
-                        Read Manga
-                    </a>
-                </li>
-                <li>
-                    <a href="https://tensurafan.github.io/" target="_blank" rel="noopener noreferrer">
-                        Read Novel
-                    </a>
-                </li>
-            </ul>
+        <section id="media" class="section">
+            <h2>Explore Tensura Media</h2>
+            <div class="grid">
+                <a href="https://kuroiru.co/anime/37430/That_Time_I_Got_Reincarnated_as_a_Slime#tab=streams" target="_blank" rel="noopener noreferrer">Watch Anime</a>
+                <a href="https://comick.io/comic/04-tensei-shitara-slime-datta-ken" target="_blank" rel="noopener noreferrer">Read Manga</a>
+                <a href="https://tensurafan.github.io/" target="_blank" rel="noopener noreferrer">Read Novel</a>
+                <a href="http://gurotranslation.blogspot.com/p/ioduction.html?m=1" target="_blank" rel="noopener noreferrer">Read Webnovel</a>
+            </div>
         </section>
 
-        <section>
-            <h2>Community Links</h2>
-            <ul>
-                <li>
-                    <a href="https://anilist.co/anime/101280/Tensei-Shitara-Slime-Datta-Ken" target="_blank" rel="noopener noreferrer">
-                        AniList
-                    </a>
-                </li>
-                <li>
-                    <a href="https://myanimelist.net/anime/37430/Tensei_shitara_Slime-Datta-Ken" target="_blank" rel="noopener noreferrer">
-                        MyAnimeList
-                    </a>
-                </li>
-                <li>
-                    <a href="https://discord.com/invite/tenseislime" target="_blank" rel="noopener noreferrer">
-                        Discord
-                    </a>
-                </li>
-                <li>
-                    <a href="https://tensura.fandom.com/wiki/Home" target="_blank" rel="noopener noreferrer">
-                        Wiki
-                    </a>
-                </li>
-                <li>
-                    <a href="https://www.reddit.com/r/TenseiSlime/" target="_blank" rel="noopener noreferrer">
-                        Reddit
-                    </a>
-                </li>
-            </ul>
+        <section id="community" class="section">
+            <h2>Connect with the Tensura Community</h2>
+            <div class="grid">
+                <a href="https://discord.com/invite/tenseislime" target="_blank" rel="noopener noreferrer">Discord</a>
+                <a href="https://www.reddit.com/r/TenseiSlime/" target="_blank" rel="noopener noreferrer">Reddit</a>
+                <a href="https://tensura.fandom.com/wiki/Home" target="_blank" rel="noopener noreferrer">Wiki</a>
+                <a href="https://anilist.co/" target="_blank" rel="noopener noreferrer">AniList</a>
+                <a href="https://myanimelist.net/" target="_blank" rel="noopener noreferrer">MyAnimeList</a>
+                <a href="https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13871" target="_blank" rel="noopener noreferrer">AniDB</a>
+            </div>
         </section>
     </main>
 
-    <footer class="container">
-        <p>&copy; 2025 Tensura Fan Site. All rights reserved. This is a fan-made website.</p>
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2025 Tensura Fan Site. Developed by <a href="https://github.com/Bittu5134" target="_blank" rel="noopener noreferrer">Bittu5134</a></p>
+        </div>
     </footer>
 
+    <script>
+        const s = (t, o = -50) => { const e = document.querySelector(t); if (e) window.scrollTo({ top: e.offsetTop + o, behavior: 'smooth' }); };
+        document.querySelectorAll('nav a, .cta').forEach(a => a.addEventListener('click', function(e) { e.preventDefault(); s(this.getAttribute('href')); }));
+        console.log("Adding awesome single-page effects!");
+    </script>
 </body>
-  </html>
+</html>
