@@ -103,7 +103,7 @@ def main():
     Main function to fetch, compare, and update the chapter number.
     """
     rss_feed_url = "https://api.mangaupdates.com/v1/series/50369844984/rss"
-    file_path = "./feed.txt"
+    file_path = "./orvcord/feed.txt"
 
     print(f"Fetching RSS feed from: {rss_feed_url}")
     rss_content = fetch_rss_feed(rss_feed_url)
