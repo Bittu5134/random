@@ -1,1 +1,12 @@
-{"chid":"2.0"}
+{
+    "chid": "3.0",
+    "data": [
+        {
+            "chapter": "2.0",
+            "Id": 1704,
+            "token": "5ace1d68458ccce0",
+            "title": "Paid Service Begins (Part 1)",
+            "release_date": 1611792000
+        }
+    ]
+}
