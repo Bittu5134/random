@@ -2,6 +2,7 @@ import requests
 import xml.etree.ElementTree as ET
 import os
 import json
+import re # Import the re module for regular expressions
 
 # Replace 'YOUR_WEBHOOK_URL' with your actual Discord webhook URL
 # WEBHOOK_URL = 'https://discord.com/api/webhooks/1387003307066916946/f-HmMpXXhPUMd5rura0mXtQ6SQ4y4JTQD4mGSfPdDUOSsqoA1rfdZnV_4El2-iJqqYcn'
@@ -90,7 +91,8 @@ def fetch_rss_feed(url):
 
 def extract_highest_chapter_number(rss_content):
     """
-    Parses the RSS feed content and extracts the highest chapter number.
+    Parses the RSS feed content and extracts the highest chapter number,
+    only considering items with "line webtoon" in their description.
 
     Args:
         rss_content (str): The XML content of the RSS feed.
@@ -104,21 +106,27 @@ def extract_highest_chapter_number(rss_content):
         # Find all 'item' elements within the RSS feed
         for item in root.findall('.//item'):
             title_element = item.find('title')
-            if title_element is not None:
+            description_element = item.find('description') # Get the description element
+
+            if title_element is not None and description_element is not None:
                 title = title_element.text
-                # Extract numbers from the title (e.g., "Omniscient Reader c.260")
-                # We'll look for numbers preceded by 'c.' or similar patterns.
-                # A more robust regex might be needed for different title formats.
-                try:
-                    # Simple approach: find 'c.' and parse the number after it
-                    chapter_str = title.split('c.')[-1].strip()
-                    # Take only the numerical part if there's more text (e.g., "260 (END)")
-                    chapter = int(''.join(filter(str.isdigit, chapter_str)))
-                    if chapter > highest_chapter:
-                        highest_chapter = chapter
-                except (ValueError, IndexError):
-                    # Continue if chapter number cannot be parsed from a title
-                    continue
+                description = description_element.text
+
+                # Check if "line webtoon" is in the description (case-insensitive)
+                if description and "line webtoon" in description.lower():
+                    # Extract numbers from the title (e.g., "Omniscient Reader c.260")
+                    # We'll look for numbers preceded by 'c.' or similar patterns.
+                    # A more robust regex might be needed for different title formats.
+                    try:
+                        # Simple approach: find 'c.' and parse the number after it
+                        chapter_str = title.split('c.')[-1].strip()
+                        # Take only the numerical part if there's more text (e.g., "260 (END)")
+                        chapter = int(''.join(filter(str.isdigit, chapter_str)))
+                        if chapter > highest_chapter:
+                            highest_chapter = chapter
+                    except (ValueError, IndexError):
+                        # Continue if chapter number cannot be parsed from a title
+                        continue
     except ET.ParseError as e:
         print(f"Error parsing XML content: {e}")
     return highest_chapter
