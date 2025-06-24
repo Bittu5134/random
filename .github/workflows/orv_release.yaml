@@ -27,3 +27,18 @@ jobs:
          # REDDIT_PASSWORD: ${{ secrets.REDDIT_PASSWORD }}
           #SUBREDDIT: OmniscientReader
         run: python orvcord/main.py
+        
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          if git diff-index --quiet HEAD; then
+            echo "No changes to commit"
+          else
+            git commit -m "Automated changes by GitHub Actions"
+          fi
+          git pull --rebase origin $(git rev-parse --abbrev-ref HEAD) || (git stash && git pull --rebase origin $(git rev-parse --abbrev-ref HEAD) && git stash pop)
+          git push origin $(git rev-parse --abbrev-ref HEAD)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
