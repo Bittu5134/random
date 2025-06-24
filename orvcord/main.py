@@ -5,6 +5,7 @@ import json
 import re # Import the re module for regular expressions
 
 # Replace 'YOUR_WEBHOOK_URL' with your actual Discord webhook URL
+# WEBHOOK_URL = 'https://discord.com/api/webhooks/1387003307066916946/f-HmMpXXhPUMd5rura0mXtQ6SQ4y4JTQD4mGSfPdDUOSsqoA1rfdZnV_4El2-iJqqYcn'
 WEBHOOK_URL = os.environ.get('WEBHOOK')
 
 # Check if the webhook URL is set
@@ -62,12 +63,10 @@ def send_discord_webhook(payload):
     headers = {
         "Content-Type": "application/json"
     }
-    try:
-        response = requests.post(WEBHOOK_URL, data=json.dumps(payload), headers=headers)
-        response.raise_for_status()  # Raise an exception for HTTP errors
-        print(f"Message sent successfully! Status code: {response.status_code}")
-    except requests.exceptions.RequestException as e:
-        print(f"Error sending message: {e}")
+    # This will raise requests.exceptions.RequestException if there's an HTTP error
+    response = requests.post(WEBHOOK_URL, data=json.dumps(payload), headers=headers)
+    response.raise_for_status()  # Raise an exception for HTTP errors (4xx or 5xx)
+    print(f"Message sent successfully! Status code: {response.status_code}")
 
     
 def fetch_rss_feed(url):
@@ -166,12 +165,10 @@ def write_chapter_to_file(file_path, chapter_number):
         file_path (str): The path to the file.
         chapter_number (int): The chapter number to write.
     """
-    try:
-        with open(file_path, 'w') as f:
-            f.write(str(chapter_number))
-        print(f"Updated '{file_path}' with chapter: {chapter_number}")
-    except IOError as e:
-        print(f"Error writing to file '{file_path}': {e}")
+    # This will raise IOError if there's a problem writing to the file
+    with open(file_path, 'w') as f:
+        f.write(str(chapter_number))
+    print(f"Updated '{file_path}' with chapter: {chapter_number}")
 
 def main():
     """
@@ -196,8 +193,8 @@ def main():
 
         if fetched_highest_chapter > current_saved_chapter:
             print(f"The fetched chapter ({fetched_highest_chapter}) is BIGGER than the saved chapter ({current_saved_chapter}).")
-            send_discord_webhook(DISCORD_MESSAGE_PAYLOAD)
-            write_chapter_to_file(file_path, fetched_highest_chapter)
+            send_discord_webhook(DISCORD_MESSAGE_PAYLOAD) # This will now throw an error on failure
+            write_chapter_to_file(file_path, fetched_highest_chapter) # This will now throw an error on failure
         elif fetched_highest_chapter < current_saved_chapter:
             print(f"The fetched chapter ({fetched_highest_chapter}) is SMALLER than the saved chapter ({current_saved_chapter}).")
         else:
