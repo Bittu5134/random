@@ -14,6 +14,7 @@ with open(path, 'r') as f:
     file_data = json.loads(file_content) # Load JSON from the read content
     chid = file_data["chid"]
     cover = file_data["cover"]
+    theme = file_data["theme"]
 
 series_detail = data['pageProps']['chapterList']
 data = []
@@ -37,22 +38,22 @@ for chapter_element in series_detail:
     {
       "title": f"Chapter - {chapter_element['chapter'].replace('.0','')}: \n{chapter_element['title']}",
       "description": "> Head over to Webtoon and catch up with the chaos, drama, and brilliance of ORV! \n> Chapter discussions in <#1323975536707637299>. \n> Watch ads to unlock 3 extra chapters.",
-      "color": None,
+      "color": theme,
       "image": {
         "url": cover
       },
       "fields": [
         {
-          "name": f"**Chapter**: {chapter_element['chapter'].replace('.0','')}",
+          "name": f"📖 **Chapter**: {chapter_element['chapter'].replace('.0','')}",
           "value": " "
         },
         {
-          "name": " ",
-          "value": f"**Release Date**: <t:{chapter_element['release_date']}:D>"
+          "value": f"<t:{chapter_element['release_date']}:D>",
+          "name": f"🗓️ **Release Date**"
         },
         {
           "name": " ",
-          "value": f"**[Read on Webtoon ↗](https://m.webtoons.com/en/action/omniscient-reader/episode-{chapter_element['chapter'].replace('.0','')}/viewer)**"
+          "value": f"🌐 **[Read on Webtoon ↗](https://m.webtoons.com/en/action/omniscient-reader/episode-{chapter_element['chapter'].replace('.0','')}/viewer)**"
         },
       ],
      "thumbnail": {
@@ -74,4 +75,4 @@ for chapter_element in series_detail:
     else:
         chid_last = chapter_element['chapter']
 with open(path, 'w') as f:
-    json.dump({"chid":chid_last,"data":data, "cover":cover}, f, indent=4)
+    json.dump({"chid":chid_last,"data":data, "cover":cover, "theme": 182352}, f, indent=4)
