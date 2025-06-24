@@ -4,7 +4,14 @@ import os
 import json
 
 # Replace 'YOUR_WEBHOOK_URL' with your actual Discord webhook URL
-WEBHOOK_URL = 'YOUR_WEBHOOK_URL'
+# WEBHOOK_URL = 'https://discord.com/api/webhooks/1387003307066916946/f-HmMpXXhPUMd5rura0mXtQ6SQ4y4JTQD4mGSfPdDUOSsqoA1rfdZnV_4El2-iJqqYcn'
+WEBHOOK_URL = os.environ.get('WEBHOOK')
+
+# Check if the webhook URL is set
+if not WEBHOOK_URL:
+    print("Error: WEBHOOK_URL environment variable not set. Please set it before running the script.")
+    exit(1)
+
 
 # The JSON payload you want to send
 DISCORD_MESSAGE_PAYLOAD = {
@@ -40,7 +47,7 @@ DISCORD_MESSAGE_PAYLOAD = {
       "footer": {
         "text": "Posted by Cute Cats\n"
       },
-      "timestamp": "2025-06-24T01:00:00.000Z"
+      "timestamp": "2025-06-24T01:00:00:000Z"
     }
   ],
   "allowed_mentions": {
