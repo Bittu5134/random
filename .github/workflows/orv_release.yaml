@@ -3,6 +3,9 @@ name: orv news
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write # <--- ADD THIS LINE HERE
+
 jobs:
   post_to_reddit:
     runs-on: ubuntu-latest
@@ -27,7 +30,7 @@ jobs:
          # REDDIT_PASSWORD: ${{ secrets.REDDIT_PASSWORD }}
           #SUBREDDIT: OmniscientReader
         run: python orvcord/main.py
-        
+
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
