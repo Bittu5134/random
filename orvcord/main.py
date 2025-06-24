@@ -1,7 +1,68 @@
 import requests
 import xml.etree.ElementTree as ET
 import os
+import json
 
+# Replace 'YOUR_WEBHOOK_URL' with your actual Discord webhook URL
+WEBHOOK_URL = 'YOUR_WEBHOOK_URL'
+
+# The JSON payload you want to send
+DISCORD_MESSAGE_PAYLOAD = {
+  "username": "ORV News",
+  "embeds": [
+    {
+      "author": {
+        "name": "✨ ORV 260: The Story Continues.."
+      },
+      "title": "> Chapter 260 is here!\n> The tension rises and new > twists await—dive into the chaos of the next scenario with Kim Dokja and the companions.\n> Catch up now on Webtoon > before spoilers find you!",
+      "color": 4810725,
+      "fields": [
+        {
+          "name": "📖 Chapter",
+          "value": "Episode 260 – Omniscient Reader's Viewpoint"
+        },
+        {
+          "name": "📅 Released On",
+          "value": "June 24, 2025"
+        },
+        {
+          "name": "🔗 Read Now",
+          "value": "[Click here to read on Webtoon](https://m.webtoons.com/en/action/omniscient-reader/episode-260/viewer?title_no=2154&episode_no=261)"
+        },
+        {
+          "name": "⚠️ Spoiler Warning",
+          "value": "Please use <#1323975536707637299> for discussions and tag spoilers properly."
+        }
+      ],
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/1385770814682562581/1386983519741280287/Picsart_25-06-24_13-47-06-992.jpg?ex=685bb090&is=685a5f10&hm=af4587b8b182f06f5ec4225bf80bb99facf3366b5e12c740aff68b3cc5210086&"
+      },
+      "footer": {
+        "text": "Posted by Cute Cats\n"
+      },
+      "timestamp": "2025-06-24T01:00:00.000Z"
+    }
+  ],
+  "allowed_mentions": {
+    "parse": [],
+    "roles": [
+      "747808586318610513"
+    ]
+  }
+}
+
+def send_discord_webhook(payload):
+    headers = {
+        "Content-Type": "application/json"
+    }
+    try:
+        response = requests.post(WEBHOOK_URL, data=json.dumps(payload), headers=headers)
+        response.raise_for_status()  # Raise an exception for HTTP errors
+        print(f"Message sent successfully! Status code: {response.status_code}")
+    except requests.exceptions.RequestException as e:
+        print(f"Error sending message: {e}")
+
+    
 def fetch_rss_feed(url):
     """
     Fetches the RSS feed from the given URL.
@@ -121,6 +182,7 @@ def main():
 
         if fetched_highest_chapter > current_saved_chapter:
             print(f"The fetched chapter ({fetched_highest_chapter}) is BIGGER than the saved chapter ({current_saved_chapter}).")
+            send_discord_webhook(DISCORD_MESSAGE_PAYLOAD)
             write_chapter_to_file(file_path, fetched_highest_chapter)
         elif fetched_highest_chapter < current_saved_chapter:
             print(f"The fetched chapter ({fetched_highest_chapter}) is SMALLER than the saved chapter ({current_saved_chapter}).")
