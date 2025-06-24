@@ -1,1 +1,14 @@
-{"chid":"167.0","cover":"https://meo.comick.pictures/Nz746.png", "theme":"1581906"}
+{
+    "chid": "168.0",
+    "data": [
+        {
+            "chapter": "167.0",
+            "Id": 1640,
+            "token": "44612f24fec573d9",
+            "title": "Constellation Banquet (Part 3)",
+            "release_date": 1689638400
+        }
+    ],
+    "cover": "https://meo.comick.pictures/Nz746.png",
+    "theme": 1581906
+}
