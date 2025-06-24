@@ -25,7 +25,7 @@ jobs:
       - name: Run Reddit posting script
         env:
            PYTHONIOENCODING: UTF-8
-         # REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+           WEBHOOK: ${{ secrets.WEBHOOK }}
         #  REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
          # REDDIT_PASSWORD: ${{ secrets.REDDIT_PASSWORD }}
           #SUBREDDIT: OmniscientReader
