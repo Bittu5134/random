@@ -6,6 +6,7 @@ path = "orvcord/feed.json"
 webhook = "https://discord.com/api/webhooks/1387003307066916946/f-HmMpXXhPUMd5rura0mXtQ6SQ4y4JTQD4mGSfPdDUOSsqoA1rfdZnV_4El2-iJqqYcn"
 url = "https://flamecomics.xyz/_next/data/OG-uJ8nhcG8usaV_1hTQT/series/2/0c9db8012fbd1257.json"
 last_chid = "2.0"
+theme = 1581906
 response = requests.get(url)
 data = response.json()
 with open(path, 'r') as f:
@@ -33,7 +34,7 @@ for chapter_element in series_detail:
         data.append(chapter_info)
 
         payload = {
-  "content": "||eveyone||",
+  "content": "||<@&1255148096430673940>||",
   "embeds": [
     {
       "title": f"Chapter - {chapter_element['chapter'].replace('.0','')}: \n{chapter_element['title']}",
@@ -53,7 +54,7 @@ for chapter_element in series_detail:
         },
         {
           "name": " ",
-          "value": f"🌐 **[Read on Webtoon ↗](https://m.webtoons.com/en/action/omniscient-reader/episode-{chapter_element['chapter'].replace('.0','')}/viewer)**"
+          "value": f"🌐 **[Read on Webtoon ↗](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154)**"
         },
       ],
      "thumbnail": {
@@ -75,4 +76,4 @@ for chapter_element in series_detail:
     else:
         chid_last = chapter_element['chapter']
 with open(path, 'w') as f:
-    json.dump({"chid":chid_last,"data":data, "cover":cover, "theme": 182352}, f, indent=4)
+    json.dump({"chid":chid_last,"data":data, "cover":cover, "theme": 1581906}, f, indent=4)
