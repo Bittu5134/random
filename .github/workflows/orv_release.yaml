@@ -15,9 +15,9 @@ jobs:
         with:
           python-version: '3.x'
 
-#      - name: Install dependencies
-#        run: |
-#          pip install praw
+      - name: Install dependencies
+        run: |
+          pip install requests
 
       - name: Run Reddit posting script
         env:
