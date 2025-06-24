@@ -8,7 +8,7 @@ response = requests.get(url)
 data = response.json()
 
 with open(path, 'r') as f:
-    chd = json.load(f)[chid]
+    chd = json.load(f)["chid"]
 
 series_detail = data['pageProps']['chapterList']
 data = []
