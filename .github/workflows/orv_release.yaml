@@ -7,7 +7,8 @@ on:
     # This translates to:
     # - At minute 0 and 30 past every hour
     # - On Monday, Tuesday, and Wednesday (1, 2, 3)
-    - cron: '30 6 * * 1'
+    # - cron: '30 6 * * 1'
+    - cron: '0 * * * *'
 
 permissions:
   contents: write
