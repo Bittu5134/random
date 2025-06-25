@@ -1,6 +1,19 @@
 {
-    "chid": "98.0",
+    "chid": "99.0",
     "data": [
+        {
+            "chapter_id": 10329,
+            "likes": 0,
+            "token": "45d5066a7970a19b",
+            "title": "Swindler (Part 2)",
+            "cover": {
+                "cover": "cover.png"
+            },
+            "chapter": "268.0",
+            "series_id": 2,
+            "release_date": 1750810672,
+            "edit_time": 1750810672
+        },
         {
             "chapter_id": 10269,
             "likes": 0,
