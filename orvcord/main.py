@@ -38,7 +38,7 @@ async def get_and_print_target_url(url: str, duration: int):
             print("No matching URL found.")
 
 capture_duration = 5
-url = asyncio.run(get_and_print_target_url(url, capture_duration))
+url = asyncio.run( get_and_print_target_url(url, capture_duration))
 
 
 response = requests.get(url)
