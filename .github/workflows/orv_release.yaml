@@ -3,12 +3,8 @@ name: ORV News Monitor
 on:
   workflow_dispatch: # Allows manual triggering
   schedule:
-    # Schedule to run every 30 minutes on Monday, Tuesday, and Wednesday
-    # This translates to:
-    # - At minute 0 and 30 past every hour
-    # - On Monday, Tuesday, and Wednesday (1, 2, 3)
-    # - cron: '30 6 * * 1'
-    - cron: '0 * * * *'
+    # Schedule to run every 30 minutes, every day
+    - cron: '*/30 * * * *'
 
 permissions:
   contents: write
@@ -42,12 +38,12 @@ jobs:
           git add orvcord/feed.json # Specifically add the chapter file
           
           # Check if there are any changes to commit for the specific file
-          if git diff --cached --exit-code orvcord/feed.txt; then
-            echo "No changes to orvcord/feed.txt to commit."
+          if git diff --cached --quiet orvcord/feed.json; then
+            echo "No changes to orvcord/feed.json to commit."
           else
             git commit -m "Automated: Update ORV chapter progress [skip ci]" # Added [skip ci] to prevent re-triggering
-            git pull --rebase origin $(git rev-parse --abbrev-ref HEAD) || \
-            (git stash && git pull --rebase origin $(git rev-parse --abbrev-ref HEAD) && git stash pop)
+            # Pull with rebase to avoid merge conflicts
+            git pull --rebase
             git push
           fi
         env:
