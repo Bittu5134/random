@@ -21,6 +21,7 @@ async def get_and_print_target_url(url: str, duration: int):
             if route.request.resource_type == "image":
                 await route.abort()
             else:
+                print(route.request.url)
                 if "/series/2/" in route.request.url and found_url_container[0] is None:
                     found_url_container[0] = route.request.url
                 await route.continue_()
@@ -28,7 +29,7 @@ async def get_and_print_target_url(url: str, duration: int):
         await page.route("**/*", _route_handler)
 
         await page.goto(url)
-        await page.wait_for_load_state('networkidle')
+        await asyncio.sleep(duration)
         await browser.close()
 
         if found_url_container[0]:
@@ -37,7 +38,7 @@ async def get_and_print_target_url(url: str, duration: int):
         else:
             print("No matching URL found.")
 
-capture_duration = 5
+capture_duration = 30
 url = asyncio.run( get_and_print_target_url(url, capture_duration))
 
 
