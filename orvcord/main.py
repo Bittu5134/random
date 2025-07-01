@@ -1,13 +1,45 @@
-import os
+
 import requests
 import json
 from datetime import datetime
+from pprint import pprint
 
 path = "orvcord/feed.json"
 webhook = os.environ("WEBHOOK")
-url = "https://flamecomics.xyz/_next/data/OG-uJ8nhcG8usaV_1hTQT/series/2/0c9db8012fbd1257.json"
+url = "https://flamecomics.xyz/series/2"
 last_chid = "2.0"
 theme = 1581906
+
+async def get_and_print_target_url(url: str, duration: int):
+    async with async_playwright() as p:
+        browser = await p.chromium.launch()
+        page = await browser.new_page()
+        found_url_container = [None]
+
+        async def _route_handler(route):
+            if route.request.resource_type == "image":
+                await route.abort()
+            else:
+                if "/series/2/" in route.request.url and found_url_container[0] is None:
+                    found_url_container[0] = route.request.url
+                await route.continue_()
+
+        await page.route("**/*", _route_handler)
+
+        await page.goto(url)
+        await asyncio.sleep(duration)
+        await browser.close()
+
+        if found_url_container[0]:
+            print(f"Found URL: {found_url_container[0]}")
+            return found_url_container[0]
+        else:
+            print("No matching URL found.")
+
+capture_duration = 5
+url = await get_and_print_target_url(url, capture_duration)
+
+
 response = requests.get(url)
 data = response.json()
 with open(path, 'r') as f:
@@ -35,7 +67,7 @@ for chapter_element in series_detail:
         data.append(chapter_info)
 
         payload = {
-  "content": "||@everyone||",
+  "content": "||*meow*||",
   "embeds": [
     {
       "title": f"✨ Chapter {chapter_element['chapter'].replace('.0','')} - {chapter_element['title']}",
