@@ -1,11 +1,12 @@
-
 import requests
 import json
 from datetime import datetime
-from pprint import pprint
+import asyncio
+import os
+from playwright.async_api import async_playwright
 
 path = "orvcord/feed.json"
-webhook = os.environ("WEBHOOK")
+webhook = os.environ["WEBHOOK"]
 url = "https://flamecomics.xyz/series/2"
 last_chid = "2.0"
 theme = 1581906
@@ -37,7 +38,7 @@ async def get_and_print_target_url(url: str, duration: int):
             print("No matching URL found.")
 
 capture_duration = 5
-url = await get_and_print_target_url(url, capture_duration)
+url = asyncio.run(get_and_print_target_url(url, capture_duration))
 
 
 response = requests.get(url)
