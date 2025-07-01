@@ -28,7 +28,7 @@ async def get_and_print_target_url(url: str, duration: int):
         await page.route("**/*", _route_handler)
 
         await page.goto(url)
-        await asyncio.sleep(duration)
+        await page.wait_for_load_state('networkidle')
         await browser.close()
 
         if found_url_container[0]:
