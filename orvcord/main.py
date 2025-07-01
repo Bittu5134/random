@@ -1,9 +1,10 @@
+import os
 import requests
 import json
 from datetime import datetime
 
 path = "orvcord/feed.json"
-webhook = "https://discord.com/api/webhooks/1387207022558318612/9_GQckbnWo3DuftYFi77yFNPaqqX_HH5ax3MLaSn2opljY_BKXZ0a34orO18t6_CxCex"
+webhook = os.environ("WEBHOOK")
 url = "https://flamecomics.xyz/_next/data/OG-uJ8nhcG8usaV_1hTQT/series/2/0c9db8012fbd1257.json"
 last_chid = "2.0"
 theme = 1581906
@@ -34,31 +35,39 @@ for chapter_element in series_detail:
         data.append(chapter_info)
 
         payload = {
-  "content": "||everyone~||",
+  "content": "||@everyone||",
   "embeds": [
     {
-      "title": f"Chapter - {chapter_element['chapter'].replace('.0','')}: \n{chapter_element['title']}",
-      "description": "-# ### Head over to Webtoon and catch up with the chaos, drama, and brilliance of ORV",
+      "title": f"✨ Chapter {chapter_element['chapter'].replace('.0','')} - {chapter_element['title']}",
+      "description": "> ### Head over to Webtoon and catch up with the chaos, drama, and brilliance of ORV",
       "color": theme,
       "image": {
         "url": cover
       },
       "fields": [
         {
-          "name": f"📖 **Chapter**: {chapter_element['chapter'].replace('.0','')}",
+          "name": f"🏮 **Chapter**: {chapter_element['chapter'].replace('.0','')}",
           "value": " "
         },
         {
-          "value": f"<t:{chapter_element['release_date']}:D>",
+          "value": " ",
           "name": f"🗓️ **Release Date**"
         },
         {
-          "name": " ",
-          "value": f"🌐 **[Read on Webtoon ↗](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154)**"
+          "name": f"<t:{chapter_element['release_date']}:F>",
+          "value": " "
         },
         {
-          "name":" ",
-          "value": "-# Chapter discussions in <#1323975536707637299>.\n\n```\n- Do not discuss or send Fast pass chapters to this channel.\n- Watch ads to unlock 3 extra chapters.\n```"
+          "name": "📖 Read on Webtoon",
+          "value": f"**[click to visit ↗](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154)**"
+        },
+        {
+          "name": "",
+          "value": "**━━━━━━━━━━━━━━━━━━━━━━━━━━━**"
+        },
+        {
+          "name":"💬 Discussions",
+          "value": "<#1323975536707637299>\n\n```\n- Do not discuss or send Fast pass chapters to this channel.\n- Watch ads to unlock 3 extra chapters.\n```"
         },
       ],
      "thumbnail": {
