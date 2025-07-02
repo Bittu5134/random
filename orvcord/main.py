@@ -4,8 +4,8 @@ import json
 from datetime import datetime
 
 path = "orvcord/feed.json"
-webhook = os.environ("WEBHOOK")
-url = "https://flamecomics.xyz/_next/data/OG-uJ8nhcG8usaV_1hTQT/series/2/0c9db8012fbd1257.json"
+webhook = os.environ["WEBHOOK"]
+url = "https://flamecomics.xyz/_next/data/9TlM41hMtIciNSupaQZxv/series/2.json?id=2"
 last_chid = "2.0"
 theme = 1581906
 response = requests.get(url)
