@@ -1,6 +1,19 @@
 {
-    "chid": "211.0",
+    "chid": "212.0",
     "data": [
+        {
+            "chapter_id": 10371,
+            "likes": 0,
+            "token": "414e8ca13ad34edd",
+            "title": "Swindler (Part 3)",
+            "cover": {
+                "cover": "cover.png"
+            },
+            "chapter": "269.0",
+            "series_id": 2,
+            "release_date": 1751390748,
+            "edit_time": 1751390748
+        },
         {
             "chapter_id": 10329,
             "likes": 0,
@@ -12,7 +25,7 @@
             "chapter": "268.0",
             "series_id": 2,
             "release_date": 1750810672,
-            "edit_time": 1750810672
+            "edit_time": 1751391390
         },
         {
             "chapter_id": 10269,
@@ -25,7 +38,7 @@
             "chapter": "267.0",
             "series_id": 2,
             "release_date": 1750176977,
-            "edit_time": 1750176977
+            "edit_time": 1751391035
         },
         {
             "chapter_id": 10234,
@@ -3444,7 +3457,7 @@
             "chapter": "2.0",
             "series_id": 2,
             "release_date": 1611792000,
-            "edit_time": 1611792000
+            "edit_time": 1751289011
         },
         {
             "chapter_id": 1693,
