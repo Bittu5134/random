@@ -3,9 +3,9 @@ name: ORV News Monitor
 on:
   workflow_dispatch: # Allows manual triggering
   schedule:
-    # Schedule to run every 30 minutes, every day
-    - cron: '*/30 * * * *'
-
+    # This runs at 17:00 UTC, which is 10:30 PM IST (UTC+5:30)
+    - cron: '30 17 * * *'
+    
 permissions:
   contents: write
 
