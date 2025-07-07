@@ -51,7 +51,7 @@ for chapter_element in series_detail:
         data.append(chapter_info)
 
         payload = {
-  "content": "||everyone||",
+  "content": "||<@&1255148096430673940>||",
   "embeds": [
     {
       "title": f"✨ Chapter {chapter_element['chapter'].replace('.0','')} - {chapter_element['title']}",
