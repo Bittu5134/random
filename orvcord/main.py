@@ -1,15 +1,31 @@
 import os
 import requests
 import json
+from bs4 import BeautifulSoup
 from datetime import datetime
 
 path = "orvcord/feed.json"
+# webhook = "https://discord.d4JtyDKOno_RUXj_th7Yd2g"
 webhook = os.environ["WEBHOOK"]
-url = "https://flamecomics.xyz/_next/data/9TlM41hMtIciNSupaQZxv/series/2.json?id=2"
+url = "https://flamecomics.xyz/_next/data/BUILD_ID/series/2/0c9db8012fbd1257.json"
 last_chid = "2.0"
 theme = 1581906
+build = ""
+
+response = requests.get(url)
+
+def get_build_id(html_content: str) -> str | None:
+    soup = BeautifulSoup(html_content, 'html.parser')
+    script_tag = soup.find('script', id='__NEXT_DATA__', type='application/json')
+    return json.loads(script_tag.string).get("buildId")
+
+url = url.replace("BUILD_ID", get_build_id(response.text))
+
+print(url)
+
 response = requests.get(url)
 data = response.json()
+
 with open(path, 'r') as f:
     file_content = f.read() # Read the content once
     print(file_content)
