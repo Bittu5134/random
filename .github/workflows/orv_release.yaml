@@ -24,10 +24,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install requests
-          # Install Playwright Python package
-          pip install playwright
-          # Install Playwright browser binaries and their system dependencies
-          playwright install --with-deps
+          pip install beautifulsoup4
 
       - name: Run ORV Chapter Monitor script
         env:
