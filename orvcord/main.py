@@ -13,6 +13,7 @@ theme = 1581906
 build = ""
 
 response = requests.get(url)
+print(f"Status Code: {response.status_code}")
 
 def get_build_id(html_content: str) -> str | None:
     soup = BeautifulSoup(html_content, 'html.parser')
