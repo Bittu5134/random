@@ -5,15 +5,16 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 
 path = "orvcord/feed.json"
-# webhook = "https://discord.d4JtyDKOno_RUXj_th7Yd2g"
+# webhook = "https://disc0Q3_7F_f4ptwR4fcj_th7Yd2g"
 webhook = os.environ["WEBHOOK"]
 url = "https://flamecomics.xyz/_next/data/BUILD_ID/series/2/0c9db8012fbd1257.json"
 last_chid = "2.0"
 theme = 1581906
 build = ""
+print(f"Status Code: {response.status_code}")
+
 
 response = requests.get(url)
-print(f"Status Code: {response.status_code}")
 
 def get_build_id(html_content: str) -> str | None:
     soup = BeautifulSoup(html_content, 'html.parser')
@@ -52,7 +53,7 @@ for chapter_element in series_detail:
         data.append(chapter_info)
 
         payload = {
-  "content": "||<@&1255148011210674187>||",
+  "content": "||everyone||",
   "embeds": [
     {
       "title": f"✨ Chapter {chapter_element['chapter'].replace('.0','')} - {chapter_element['title']}",
