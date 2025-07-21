@@ -1,6 +1,32 @@
 {
-    "chid": "263.0",
+    "chid": "264.0",
     "data": [
+        {
+            "chapter_id": 10431,
+            "likes": 0,
+            "token": "b12b6e3b7caccb16",
+            "title": "Gourmet Association (Part 2)",
+            "cover": {
+                "cover": "cover.png"
+            },
+            "chapter": "271.0",
+            "series_id": 2,
+            "release_date": 1752593379,
+            "edit_time": 1752593379
+        },
+        {
+            "chapter_id": 10405,
+            "likes": 0,
+            "token": "7e8a4986ee287663",
+            "title": "Gourmet Association (Part 1)",
+            "cover": {
+                "cover": "cover.png"
+            },
+            "chapter": "270.0",
+            "series_id": 2,
+            "release_date": 1751989285,
+            "edit_time": 1751989285
+        },
         {
             "chapter_id": 10371,
             "likes": 0,
