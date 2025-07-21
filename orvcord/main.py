@@ -7,7 +7,7 @@ from datetime import datetime
 path = "orvcord/feed.json"
 # webhook = "https://disc0Q3_7F_f4ptwR4fcj_th7Yd2g"
 webhook = os.environ["WEBHOOK"]
-url = "https://flamecomics.xyz/_next/data/BUILD_ID/series/2/0c9db8012fbd1257.json"
+url = "https://proxy.ssr7a5134.workers.dev/--https://flamecomics.xyz/_next/data/BUILD_ID/series/2/0c9db8012fbd1257.json"
 last_chid = "2.0"
 theme = 1581906
 build = ""
