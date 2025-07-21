@@ -1,0 +1,51 @@
+name: DEV ORV News Monitor
+
+on:
+  workflow_dispatch: # Allows manual triggering
+  schedule:
+    # This runs at 6:30 AM IST on Tuesdays (01:00 UTC)
+    - cron: '45 17 * * 1' # Adjusted cron schedule
+
+permissions:
+  contents: write
+
+jobs:
+  check_and_notify_orv_chapter:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x' # Use '3.x' for the latest Python 3 version
+
+      - name: Install dependencies
+        run: |
+          pip install requests
+          pip install beautifulsoup4
+
+      - name: Run ORV Chapter Monitor script
+        env:
+          PYTHONIOENCODING: UTF-8
+          WEBHOOK: ${{ secrets.WEBHOOK_DEV }}
+        run: python orvcord/main.py
+
+      - name: Commit and push chapter file changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add orvcord/feed.json # Specifically add the chapter file
+          
+          # Check if there are any changes to commit for the specific file
+          if git diff --cached --quiet orvcord/feed.json; then
+            echo "No changes to orvcord/feed.json to commit."
+          else
+            git commit -m "Automated: Update ORV chapter progress [skip ci]" # Added [skip ci] to prevent re-triggering
+            # Pull with rebase to avoid merge conflicts
+            git pull --rebase
+            git push
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
