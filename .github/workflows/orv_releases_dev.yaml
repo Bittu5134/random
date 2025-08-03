@@ -1,10 +1,7 @@
 name: DEV ORV News Monitor
 
 on:
-  workflow_dispatch: # Allows manual triggering
-  schedule:
-    # This runs at 6:30 AM IST on Tuesdays (01:00 UTC)
-  #  - cron: '35 18 * * 1' # Adjusted cron schedule
+  workflow_dispatch: 
 
 permissions:
   contents: write
