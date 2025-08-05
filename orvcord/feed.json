@@ -1,6 +1,19 @@
 {
-    "chid": "266.0",
+    "chid": "267.0",
     "data": [
+        {
+            "chapter_id": 10488,
+            "likes": 0,
+            "token": "d2b060e57d70a7e8",
+            "title": "Gourmet Association (Part 4)",
+            "cover": {
+                "cover": "cover.png"
+            },
+            "chapter": "273.0",
+            "series_id": 2,
+            "release_date": 1753812515,
+            "edit_time": 1753812515
+        },
         {
             "chapter_id": 10468,
             "likes": 0,
