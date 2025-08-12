@@ -1,6 +1,19 @@
 {
-    "chid": "267.0",
+    "chid": "268.0",
     "data": [
+        {
+            "chapter_id": 10526,
+            "likes": 0,
+            "token": "c9d76b70372d4eea",
+            "title": "Gourmet Association (Part 5)",
+            "cover": {
+                "cover": "cover.png"
+            },
+            "chapter": "274.0",
+            "series_id": 2,
+            "release_date": 1754420993,
+            "edit_time": 1754420993
+        },
         {
             "chapter_id": 10488,
             "likes": 0,
@@ -12,7 +25,7 @@
             "chapter": "273.0",
             "series_id": 2,
             "release_date": 1753812515,
-            "edit_time": 1753812515
+            "edit_time": 1754512085
         },
         {
             "chapter_id": 10468,
