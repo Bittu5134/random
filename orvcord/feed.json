@@ -1,6 +1,19 @@
 {
-    "chid": "269.0",
+    "chid": "270.0",
     "data": [
+        {
+            "chapter_id": 10589,
+            "likes": 0,
+            "token": "bc367c8f39aa7823",
+            "title": "New Fable (Part 1)",
+            "cover": {
+                "cover": "cover.png"
+            },
+            "chapter": "276.0",
+            "series_id": 2,
+            "release_date": 1755622233,
+            "edit_time": 1755622233
+        },
         {
             "chapter_id": 10557,
             "likes": 0,
