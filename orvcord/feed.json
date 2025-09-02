@@ -1,6 +1,19 @@
 {
-    "chid": "270.0",
+    "chid": "0.00",
     "data": [
+        {
+            "chapter_id": 10622,
+            "likes": 0,
+            "token": "f9cca520bf1b45a0",
+            "title": "New Fable (Part 2)",
+            "cover": {
+                "cover": "cover.png"
+            },
+            "chapter": "277.00",
+            "series_id": 2,
+            "release_date": 1756226578,
+            "edit_time": 1756226578
+        },
         {
             "chapter_id": 10589,
             "likes": 0,
@@ -9,7 +22,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "276.0",
+            "chapter": "276.00",
             "series_id": 2,
             "release_date": 1755622233,
             "edit_time": 1755622233
@@ -22,7 +35,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "275.0",
+            "chapter": "275.00",
             "series_id": 2,
             "release_date": 1755022655,
             "edit_time": 1755022655
@@ -35,7 +48,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "274.0",
+            "chapter": "274.00",
             "series_id": 2,
             "release_date": 1754420993,
             "edit_time": 1754420993
@@ -48,7 +61,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "273.0",
+            "chapter": "273.00",
             "series_id": 2,
             "release_date": 1753812515,
             "edit_time": 1754512085
@@ -61,7 +74,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "272.0",
+            "chapter": "272.00",
             "series_id": 2,
             "release_date": 1753215010,
             "edit_time": 1753215010
@@ -74,7 +87,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "271.0",
+            "chapter": "271.00",
             "series_id": 2,
             "release_date": 1752593379,
             "edit_time": 1752593379
@@ -87,7 +100,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "270.0",
+            "chapter": "270.00",
             "series_id": 2,
             "release_date": 1751989285,
             "edit_time": 1751989285
@@ -100,7 +113,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "269.0",
+            "chapter": "269.00",
             "series_id": 2,
             "release_date": 1751390748,
             "edit_time": 1751390748
@@ -113,7 +126,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "268.0",
+            "chapter": "268.00",
             "series_id": 2,
             "release_date": 1750810672,
             "edit_time": 1751391390
@@ -126,7 +139,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "267.0",
+            "chapter": "267.00",
             "series_id": 2,
             "release_date": 1750176977,
             "edit_time": 1751391035
@@ -139,7 +152,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "266.0",
+            "chapter": "266.00",
             "series_id": 2,
             "release_date": 1749570198,
             "edit_time": 1749570198
@@ -152,7 +165,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "265.0",
+            "chapter": "265.00",
             "series_id": 2,
             "release_date": 1748966138,
             "edit_time": 1749900323
@@ -165,7 +178,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "264.0",
+            "chapter": "264.00",
             "series_id": 2,
             "release_date": 1748359050,
             "edit_time": 1748360515
@@ -178,7 +191,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "263.0",
+            "chapter": "263.00",
             "series_id": 2,
             "release_date": 1747759977,
             "edit_time": 1747759977
@@ -191,7 +204,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "262.0",
+            "chapter": "262.00",
             "series_id": 2,
             "release_date": 1747149272,
             "edit_time": 1747150118
@@ -204,7 +217,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "261.0",
+            "chapter": "261.00",
             "series_id": 2,
             "release_date": 1746545150,
             "edit_time": 1746545150
@@ -217,7 +230,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "260.0",
+            "chapter": "260.00",
             "series_id": 2,
             "release_date": 1745940693,
             "edit_time": 1745940693
@@ -230,7 +243,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "259.0",
+            "chapter": "259.00",
             "series_id": 2,
             "release_date": 1745336594,
             "edit_time": 1745336594
@@ -243,7 +256,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "258.0",
+            "chapter": "258.00",
             "series_id": 2,
             "release_date": 1744731974,
             "edit_time": 1744735082
@@ -256,7 +269,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "257.0",
+            "chapter": "257.00",
             "series_id": 2,
             "release_date": 1744126084,
             "edit_time": 1744312307
@@ -269,7 +282,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "256.0",
+            "chapter": "256.00",
             "series_id": 2,
             "release_date": 1743519548,
             "edit_time": 1743519971
@@ -282,7 +295,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "255.0",
+            "chapter": "255.00",
             "series_id": 2,
             "release_date": 1742916004,
             "edit_time": 1742916004
@@ -295,7 +308,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "254.0",
+            "chapter": "254.00",
             "series_id": 2,
             "release_date": 1742311614,
             "edit_time": 1742311614
@@ -308,7 +321,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "253.0",
+            "chapter": "253.00",
             "series_id": 2,
             "release_date": 1741707761,
             "edit_time": 1741714395
@@ -321,7 +334,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "252.0",
+            "chapter": "252.00",
             "series_id": 2,
             "release_date": 1741101427,
             "edit_time": 1741101427
@@ -334,7 +347,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "251.0",
+            "chapter": "251.00",
             "series_id": 2,
             "release_date": 1740497631,
             "edit_time": 1741033054
@@ -347,7 +360,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "250.0",
+            "chapter": "250.00",
             "series_id": 2,
             "release_date": 1739892068,
             "edit_time": 1739892068
@@ -360,7 +373,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "249.0",
+            "chapter": "249.00",
             "series_id": 2,
             "release_date": 1739285311,
             "edit_time": 1739285311
@@ -373,7 +386,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "248.0",
+            "chapter": "248.00",
             "series_id": 2,
             "release_date": 1738681504,
             "edit_time": 1738682626
@@ -386,7 +399,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "247.0",
+            "chapter": "247.00",
             "series_id": 2,
             "release_date": 1738076550,
             "edit_time": 1738078520
@@ -399,7 +412,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "246.0",
+            "chapter": "246.00",
             "series_id": 2,
             "release_date": 1737471226,
             "edit_time": 1737471331
@@ -412,7 +425,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "245.0",
+            "chapter": "245.00",
             "series_id": 2,
             "release_date": 1736868662,
             "edit_time": 1736869762
@@ -425,7 +438,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "244.0",
+            "chapter": "244.00",
             "series_id": 2,
             "release_date": 1736264882,
             "edit_time": 1736860121
@@ -438,7 +451,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "243.0",
+            "chapter": "243.00",
             "series_id": 2,
             "release_date": 1735659113,
             "edit_time": 1736265079
@@ -451,7 +464,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "242.0",
+            "chapter": "242.00",
             "series_id": 2,
             "release_date": 1735056883,
             "edit_time": 1735663342
@@ -462,7 +475,7 @@
             "token": "dfce2dccdf831fef",
             "title": "Unidentified Wall (Part 7)",
             "cover": null,
-            "chapter": "241.0",
+            "chapter": "241.00",
             "series_id": 2,
             "release_date": 1734446627,
             "edit_time": 1735663340
@@ -473,7 +486,7 @@
             "token": "4ade6d2306ad30f4",
             "title": "Unidentified Wall (Part 6)",
             "cover": null,
-            "chapter": "240.0",
+            "chapter": "240.00",
             "series_id": 2,
             "release_date": 1733845821,
             "edit_time": 1735663284
@@ -484,7 +497,7 @@
             "token": "27cce74979a25f2c",
             "title": "Unidentified Wall (Part 5)",
             "cover": null,
-            "chapter": "239.0",
+            "chapter": "239.00",
             "series_id": 2,
             "release_date": 1733238448,
             "edit_time": 1733238564
@@ -497,7 +510,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "238.0",
+            "chapter": "238.00",
             "series_id": 2,
             "release_date": 1732635591,
             "edit_time": 1732636626
@@ -510,7 +523,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "237.0",
+            "chapter": "237.00",
             "series_id": 2,
             "release_date": 1732372324,
             "edit_time": 1732372383
@@ -521,7 +534,7 @@
             "token": "6d64f69e90588401",
             "title": "Unidentified Wall (Part 2)",
             "cover": null,
-            "chapter": "236.0",
+            "chapter": "236.00",
             "series_id": 2,
             "release_date": 1731369600,
             "edit_time": 1731369600
@@ -532,7 +545,7 @@
             "token": "88aa07ade0825ecd",
             "title": "Unidentified Wall (Part 1)",
             "cover": null,
-            "chapter": "235.0",
+            "chapter": "235.00",
             "series_id": 2,
             "release_date": 1730764800,
             "edit_time": 1730764800
@@ -543,7 +556,7 @@
             "token": "ec1fae96362296c7",
             "title": "Fake Revolutionary (Part 5)",
             "cover": null,
-            "chapter": "234.0",
+            "chapter": "234.00",
             "series_id": 2,
             "release_date": 1730160000,
             "edit_time": 1734367333
@@ -554,7 +567,7 @@
             "token": "ef9291445c0697f0",
             "title": "Fake Revolutionary (Part 4)",
             "cover": null,
-            "chapter": "233.0",
+            "chapter": "233.00",
             "series_id": 2,
             "release_date": 1729555200,
             "edit_time": 1733343699
@@ -565,7 +578,7 @@
             "token": "ca076ea3871d8300",
             "title": "Fake Revolutionary (Part 3)",
             "cover": null,
-            "chapter": "232.0",
+            "chapter": "232.00",
             "series_id": 2,
             "release_date": 1728950400,
             "edit_time": 1735656615
@@ -576,7 +589,7 @@
             "token": "0d4ae672eee0a468",
             "title": "Fake Revolutionary (Part 2)",
             "cover": null,
-            "chapter": "231.0",
+            "chapter": "231.00",
             "series_id": 2,
             "release_date": 1728345600,
             "edit_time": 1728345600
@@ -587,7 +600,7 @@
             "token": "3895c51621b658bc",
             "title": "Fake Revolutionary (Part 1)",
             "cover": null,
-            "chapter": "230.0",
+            "chapter": "230.00",
             "series_id": 2,
             "release_date": 1727740800,
             "edit_time": 1737981116
@@ -598,7 +611,7 @@
             "token": "cd630ffbdd0f906e",
             "title": "Landscape of the Demon Realm (Part 5)",
             "cover": null,
-            "chapter": "229.0",
+            "chapter": "229.00",
             "series_id": 2,
             "release_date": 1732683500,
             "edit_time": 1737981150
@@ -609,7 +622,7 @@
             "token": "986693d80328a0f1",
             "title": "Landscape of the Demon Realm (Part 4)",
             "cover": null,
-            "chapter": "228.0",
+            "chapter": "228.00",
             "series_id": 2,
             "release_date": 1726531200,
             "edit_time": 1737981175
@@ -620,7 +633,7 @@
             "token": "4e02ed37f799a7b0",
             "title": "Landscape of the Demon Realm (Part 3)",
             "cover": null,
-            "chapter": "227.0",
+            "chapter": "227.00",
             "series_id": 2,
             "release_date": 1725926400,
             "edit_time": 1737984170
@@ -633,7 +646,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "226.0",
+            "chapter": "226.00",
             "series_id": 2,
             "release_date": 1725321600,
             "edit_time": 1737984253
@@ -646,7 +659,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "225.0",
+            "chapter": "225.00",
             "series_id": 2,
             "release_date": 1724716800,
             "edit_time": 1737984268
@@ -659,7 +672,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "224.0",
+            "chapter": "224.00",
             "series_id": 2,
             "release_date": 1724112000,
             "edit_time": 1737984303
@@ -672,7 +685,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "223.0",
+            "chapter": "223.00",
             "series_id": 2,
             "release_date": 1723507200,
             "edit_time": 1737984321
@@ -685,7 +698,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "222.0",
+            "chapter": "222.00",
             "series_id": 2,
             "release_date": 1722902400,
             "edit_time": 1737984333
@@ -698,7 +711,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "221.0",
+            "chapter": "221.00",
             "series_id": 2,
             "release_date": 1722297600,
             "edit_time": 1737984400
@@ -711,7 +724,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "220.0",
+            "chapter": "220.00",
             "series_id": 2,
             "release_date": 1721692800,
             "edit_time": 1737984420
@@ -724,7 +737,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "219.0",
+            "chapter": "219.00",
             "series_id": 2,
             "release_date": 1721088000,
             "edit_time": 1737984440
@@ -737,7 +750,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "218.0",
+            "chapter": "218.00",
             "series_id": 2,
             "release_date": 1720483200,
             "edit_time": 1737984454
@@ -750,7 +763,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "217.0",
+            "chapter": "217.00",
             "series_id": 2,
             "release_date": 1719878400,
             "edit_time": 1737984474
@@ -763,7 +776,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "216.0",
+            "chapter": "216.00",
             "series_id": 2,
             "release_date": 1719273600,
             "edit_time": 1734367295
@@ -776,7 +789,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "215.0",
+            "chapter": "215.00",
             "series_id": 2,
             "release_date": 1718668800,
             "edit_time": 1734424565
@@ -789,7 +802,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "214.0",
+            "chapter": "214.00",
             "series_id": 2,
             "release_date": 1718064000,
             "edit_time": 1734367274
@@ -802,7 +815,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "213.0",
+            "chapter": "213.00",
             "series_id": 2,
             "release_date": 1717459200,
             "edit_time": 1734367228
@@ -815,7 +828,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "212.0",
+            "chapter": "212.00",
             "series_id": 2,
             "release_date": 1716854400,
             "edit_time": 1737984516
@@ -828,7 +841,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "211.0",
+            "chapter": "211.00",
             "series_id": 2,
             "release_date": 1716249600,
             "edit_time": 1737984632
@@ -841,7 +854,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "210.0",
+            "chapter": "210.00",
             "series_id": 2,
             "release_date": 1715644800,
             "edit_time": 1737984661
@@ -854,7 +867,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "209.0",
+            "chapter": "209.00",
             "series_id": 2,
             "release_date": 1715040000,
             "edit_time": 1737984674
@@ -867,7 +880,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "208.0",
+            "chapter": "208.00",
             "series_id": 2,
             "release_date": 1713830400,
             "edit_time": 1713830400
@@ -880,7 +893,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "207.0",
+            "chapter": "207.00",
             "series_id": 2,
             "release_date": 1713225600,
             "edit_time": 1713225600
@@ -893,7 +906,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "206.0",
+            "chapter": "206.00",
             "series_id": 2,
             "release_date": 1712620800,
             "edit_time": 1737984742
@@ -906,7 +919,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "205.0",
+            "chapter": "205.00",
             "series_id": 2,
             "release_date": 1712016000,
             "edit_time": 1712016000
@@ -919,7 +932,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "204.0",
+            "chapter": "204.00",
             "series_id": 2,
             "release_date": 1711411200,
             "edit_time": 1711411200
@@ -932,7 +945,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "203.0",
+            "chapter": "203.00",
             "series_id": 2,
             "release_date": 1710806400,
             "edit_time": 1710806400
@@ -945,7 +958,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "202.0",
+            "chapter": "202.00",
             "series_id": 2,
             "release_date": 1710201600,
             "edit_time": 1710201600
@@ -958,7 +971,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "201.0",
+            "chapter": "201.00",
             "series_id": 2,
             "release_date": 1709596800,
             "edit_time": 1737984782
@@ -971,7 +984,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "200.0",
+            "chapter": "200.00",
             "series_id": 2,
             "release_date": 1708992000,
             "edit_time": 1708992000
@@ -984,7 +997,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "199.0",
+            "chapter": "199.00",
             "series_id": 2,
             "release_date": 1708387200,
             "edit_time": 1708387200
@@ -997,7 +1010,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "198.0",
+            "chapter": "198.00",
             "series_id": 2,
             "release_date": 1707782400,
             "edit_time": 1707782400
@@ -1010,7 +1023,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "197.0",
+            "chapter": "197.00",
             "series_id": 2,
             "release_date": 1732682601,
             "edit_time": 1732682601
@@ -1023,7 +1036,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "196.0",
+            "chapter": "196.00",
             "series_id": 2,
             "release_date": 1706572800,
             "edit_time": 1706572800
@@ -1036,7 +1049,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "195.0",
+            "chapter": "195.00",
             "series_id": 2,
             "release_date": 1705968000,
             "edit_time": 1705968000
@@ -1049,7 +1062,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "194.0",
+            "chapter": "194.00",
             "series_id": 2,
             "release_date": 1705363200,
             "edit_time": 1705363200
@@ -1062,7 +1075,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "193.0",
+            "chapter": "193.00",
             "series_id": 2,
             "release_date": 1705363200,
             "edit_time": 1705363200
@@ -1075,7 +1088,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "192.0",
+            "chapter": "192.00",
             "series_id": 2,
             "release_date": 1704758400,
             "edit_time": 1704758400
@@ -1088,7 +1101,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "191.0",
+            "chapter": "191.00",
             "series_id": 2,
             "release_date": 1704153600,
             "edit_time": 1704153600
@@ -1101,7 +1114,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "190.0",
+            "chapter": "190.00",
             "series_id": 2,
             "release_date": 1703548800,
             "edit_time": 1703548800
@@ -1114,7 +1127,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "189.0",
+            "chapter": "189.00",
             "series_id": 2,
             "release_date": 1702944000,
             "edit_time": 1702944000
@@ -1127,7 +1140,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "188.0",
+            "chapter": "188.00",
             "series_id": 2,
             "release_date": 1732683713,
             "edit_time": 1732683713
@@ -1140,7 +1153,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "187.0",
+            "chapter": "187.00",
             "series_id": 2,
             "release_date": 1732683404,
             "edit_time": 1732683404
@@ -1153,7 +1166,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "186.0",
+            "chapter": "186.00",
             "series_id": 2,
             "release_date": 1701129600,
             "edit_time": 1701129600
@@ -1166,7 +1179,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "185.0",
+            "chapter": "185.00",
             "series_id": 2,
             "release_date": 1732683732,
             "edit_time": 1732683732
@@ -1179,7 +1192,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "184.0",
+            "chapter": "184.00",
             "series_id": 2,
             "release_date": 1699920000,
             "edit_time": 1699920000
@@ -1192,7 +1205,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "183.0",
+            "chapter": "183.00",
             "series_id": 2,
             "release_date": 1699315200,
             "edit_time": 1737984983
@@ -1205,7 +1218,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "182.0",
+            "chapter": "182.00",
             "series_id": 2,
             "release_date": 1698710400,
             "edit_time": 1737985015
@@ -1218,7 +1231,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "181.0",
+            "chapter": "181.00",
             "series_id": 2,
             "release_date": 1698451200,
             "edit_time": 1737985039
@@ -1231,7 +1244,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "180.0",
+            "chapter": "180.00",
             "series_id": 2,
             "release_date": 1697500800,
             "edit_time": 1697500800
@@ -1244,7 +1257,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "179.0",
+            "chapter": "179.00",
             "series_id": 2,
             "release_date": 1696982400,
             "edit_time": 1696982400
@@ -1257,7 +1270,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "178.0",
+            "chapter": "178.00",
             "series_id": 2,
             "release_date": 1696291200,
             "edit_time": 1696291200
@@ -1270,7 +1283,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "177.0",
+            "chapter": "177.00",
             "series_id": 2,
             "release_date": 1695686400,
             "edit_time": 1695686400
@@ -1283,7 +1296,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "176.0",
+            "chapter": "176.00",
             "series_id": 2,
             "release_date": 1695081600,
             "edit_time": 1737985142
@@ -1296,7 +1309,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "175.0",
+            "chapter": "175.00",
             "series_id": 2,
             "release_date": 1694476800,
             "edit_time": 1694476800
@@ -1309,7 +1322,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "174.0",
+            "chapter": "174.00",
             "series_id": 2,
             "release_date": 1693872000,
             "edit_time": 1737985398
@@ -1322,7 +1335,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "173.0",
+            "chapter": "173.00",
             "series_id": 2,
             "release_date": 1693267200,
             "edit_time": 1737985452
@@ -1335,7 +1348,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "172.0",
+            "chapter": "172.00",
             "series_id": 2,
             "release_date": 1692662400,
             "edit_time": 1692662400
@@ -1348,7 +1361,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "171.0",
+            "chapter": "171.00",
             "series_id": 2,
             "release_date": 1692057600,
             "edit_time": 1737985495
@@ -1361,7 +1374,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "170.0",
+            "chapter": "170.00",
             "series_id": 2,
             "release_date": 1691452800,
             "edit_time": 1691452800
@@ -1374,7 +1387,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "169.0",
+            "chapter": "169.00",
             "series_id": 2,
             "release_date": 1690848000,
             "edit_time": 1737985618
@@ -1387,7 +1400,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "168.0",
+            "chapter": "168.00",
             "series_id": 2,
             "release_date": 1690243200,
             "edit_time": 1737985636
@@ -1400,7 +1413,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "167.0",
+            "chapter": "167.00",
             "series_id": 2,
             "release_date": 1689638400,
             "edit_time": 1689638400
@@ -1413,7 +1426,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "166.0",
+            "chapter": "166.00",
             "series_id": 2,
             "release_date": 1689033600,
             "edit_time": 1689033600
@@ -1426,7 +1439,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "165.0",
+            "chapter": "165.00",
             "series_id": 2,
             "release_date": 1688428800,
             "edit_time": 1688428800
@@ -1439,7 +1452,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "164.0",
+            "chapter": "164.00",
             "series_id": 2,
             "release_date": 1687824000,
             "edit_time": 1687824000
@@ -1452,7 +1465,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "163.0",
+            "chapter": "163.00",
             "series_id": 2,
             "release_date": 1687219200,
             "edit_time": 1687219200
@@ -1465,7 +1478,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "162.0",
+            "chapter": "162.00",
             "series_id": 2,
             "release_date": 1686614400,
             "edit_time": 1686614400
@@ -1478,7 +1491,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "161.0",
+            "chapter": "161.00",
             "series_id": 2,
             "release_date": 1686009600,
             "edit_time": 1686009600
@@ -1491,7 +1504,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "160.0",
+            "chapter": "160.00",
             "series_id": 2,
             "release_date": 1685404800,
             "edit_time": 1737985718
@@ -1504,7 +1517,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "159.0",
+            "chapter": "159.00",
             "series_id": 2,
             "release_date": 1684800000,
             "edit_time": 1684800000
@@ -1517,7 +1530,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "158.0",
+            "chapter": "158.00",
             "series_id": 2,
             "release_date": 1684195200,
             "edit_time": 1684195200
@@ -1530,7 +1543,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "157.0",
+            "chapter": "157.00",
             "series_id": 2,
             "release_date": 1683590400,
             "edit_time": 1683590400
@@ -1543,7 +1556,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "156.0",
+            "chapter": "156.00",
             "series_id": 2,
             "release_date": 1682985600,
             "edit_time": 1682985600
@@ -1556,7 +1569,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "155.0",
+            "chapter": "155.00",
             "series_id": 2,
             "release_date": 1682380800,
             "edit_time": 1682380800
@@ -1569,7 +1582,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "154.0",
+            "chapter": "154.00",
             "series_id": 2,
             "release_date": 1681776000,
             "edit_time": 1681776000
@@ -1582,7 +1595,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "153.0",
+            "chapter": "153.00",
             "series_id": 2,
             "release_date": 1681171200,
             "edit_time": 1681171200
@@ -1595,7 +1608,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "152.0",
+            "chapter": "152.00",
             "series_id": 2,
             "release_date": 1680566400,
             "edit_time": 1734337710
@@ -1608,7 +1621,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "151.0",
+            "chapter": "151.00",
             "series_id": 2,
             "release_date": 1679961600,
             "edit_time": 1679961600
@@ -1621,7 +1634,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "150.0",
+            "chapter": "150.00",
             "series_id": 2,
             "release_date": 1679356800,
             "edit_time": 1737985811
@@ -1634,7 +1647,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "149.0",
+            "chapter": "149.00",
             "series_id": 2,
             "release_date": 1678752000,
             "edit_time": 1737985946
@@ -1647,7 +1660,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "148.0",
+            "chapter": "148.00",
             "series_id": 2,
             "release_date": 1678147200,
             "edit_time": 1737985965
@@ -1660,7 +1673,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "147.0",
+            "chapter": "147.00",
             "series_id": 2,
             "release_date": 1677542400,
             "edit_time": 1677542400
@@ -1673,7 +1686,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "146.0",
+            "chapter": "146.00",
             "series_id": 2,
             "release_date": 1732682983,
             "edit_time": 1732682983
@@ -1686,7 +1699,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "145.0",
+            "chapter": "145.00",
             "series_id": 2,
             "release_date": 1676332800,
             "edit_time": 1737986001
@@ -1699,7 +1712,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "144.0",
+            "chapter": "144.00",
             "series_id": 2,
             "release_date": 1675728000,
             "edit_time": 1675728000
@@ -1712,7 +1725,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "143.0",
+            "chapter": "143.00",
             "series_id": 2,
             "release_date": 1675123200,
             "edit_time": 1675123200
@@ -1725,7 +1738,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "142.0",
+            "chapter": "142.00",
             "series_id": 2,
             "release_date": 1673913600,
             "edit_time": 1737986041
@@ -1738,7 +1751,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "141.0",
+            "chapter": "141.00",
             "series_id": 2,
             "release_date": 1673308800,
             "edit_time": 1737986059
@@ -1751,7 +1764,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "140.0",
+            "chapter": "140.00",
             "series_id": 2,
             "release_date": 1672704000,
             "edit_time": 1737986073
@@ -1764,7 +1777,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "139.0",
+            "chapter": "139.00",
             "series_id": 2,
             "release_date": 1672099200,
             "edit_time": 1737986084
@@ -1777,7 +1790,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "138.0",
+            "chapter": "138.00",
             "series_id": 2,
             "release_date": 1671753600,
             "edit_time": 1737986100
@@ -1790,7 +1803,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "137.0",
+            "chapter": "137.00",
             "series_id": 2,
             "release_date": 1671148800,
             "edit_time": 1671148800
@@ -1803,7 +1816,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "136.0",
+            "chapter": "136.00",
             "series_id": 2,
             "release_date": 1670457600,
             "edit_time": 1670457600
@@ -1816,7 +1829,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "135.0",
+            "chapter": "135.00",
             "series_id": 2,
             "release_date": 1670025600,
             "edit_time": 1670025600
@@ -1829,7 +1842,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "134.0",
+            "chapter": "134.00",
             "series_id": 2,
             "release_date": 1669766400,
             "edit_time": 1669766400
@@ -1842,7 +1855,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "133.0",
+            "chapter": "133.00",
             "series_id": 2,
             "release_date": 1669248000,
             "edit_time": 1669248000
@@ -1855,7 +1868,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "132.0",
+            "chapter": "132.00",
             "series_id": 2,
             "release_date": 1669161600,
             "edit_time": 1669161600
@@ -1868,7 +1881,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "131.0",
+            "chapter": "131.00",
             "series_id": 2,
             "release_date": 1667952000,
             "edit_time": 1667952000
@@ -1881,7 +1894,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "130.0",
+            "chapter": "130.00",
             "series_id": 2,
             "release_date": 1667347200,
             "edit_time": 1667347200
@@ -1894,7 +1907,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "129.0",
+            "chapter": "129.00",
             "series_id": 2,
             "release_date": 1666656000,
             "edit_time": 1666656000
@@ -1907,7 +1920,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "128.0",
+            "chapter": "128.00",
             "series_id": 2,
             "release_date": 1665964800,
             "edit_time": 1665964800
@@ -1920,7 +1933,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "127.0",
+            "chapter": "127.00",
             "series_id": 2,
             "release_date": 1665100800,
             "edit_time": 1665100800
@@ -1933,7 +1946,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "126.0",
+            "chapter": "126.00",
             "series_id": 2,
             "release_date": 1664582400,
             "edit_time": 1664582400
@@ -1946,7 +1959,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "125.0",
+            "chapter": "125.00",
             "series_id": 2,
             "release_date": 1664064000,
             "edit_time": 1664064000
@@ -1959,7 +1972,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "124.0",
+            "chapter": "124.00",
             "series_id": 2,
             "release_date": 1663632000,
             "edit_time": 1663632000
@@ -1972,7 +1985,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "123.0",
+            "chapter": "123.00",
             "series_id": 2,
             "release_date": 1662940800,
             "edit_time": 1662940800
@@ -1985,7 +1998,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "122.0",
+            "chapter": "122.00",
             "series_id": 2,
             "release_date": 1662249600,
             "edit_time": 1737986457
@@ -1998,7 +2011,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "121.0",
+            "chapter": "121.00",
             "series_id": 2,
             "release_date": 1661731200,
             "edit_time": 1737986508
@@ -2011,7 +2024,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "120.0",
+            "chapter": "120.00",
             "series_id": 2,
             "release_date": 1660780800,
             "edit_time": 1737986518
@@ -2024,7 +2037,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "119.0",
+            "chapter": "119.00",
             "series_id": 2,
             "release_date": 1660348800,
             "edit_time": 1737986530
@@ -2037,7 +2050,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "118.0",
+            "chapter": "118.00",
             "series_id": 2,
             "release_date": 1659657600,
             "edit_time": 1737986541
@@ -2050,7 +2063,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "117.0",
+            "chapter": "117.00",
             "series_id": 2,
             "release_date": 1658880000,
             "edit_time": 1734205954
@@ -2063,7 +2076,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "116.0",
+            "chapter": "116.00",
             "series_id": 2,
             "release_date": 1658361600,
             "edit_time": 1737986560
@@ -2076,7 +2089,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "115.0",
+            "chapter": "115.00",
             "series_id": 2,
             "release_date": 1658102400,
             "edit_time": 1737986574
@@ -2089,7 +2102,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "114.0",
+            "chapter": "114.00",
             "series_id": 2,
             "release_date": 1732683687,
             "edit_time": 1732683687
@@ -2102,7 +2115,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "113.0",
+            "chapter": "113.00",
             "series_id": 2,
             "release_date": 1656720000,
             "edit_time": 1737986591
@@ -2115,7 +2128,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "112.0",
+            "chapter": "112.00",
             "series_id": 2,
             "release_date": 1655942400,
             "edit_time": 1737986608
@@ -2128,7 +2141,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "111.0",
+            "chapter": "111.00",
             "series_id": 2,
             "release_date": 1655337600,
             "edit_time": 1655337600
@@ -2141,7 +2154,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "110.0",
+            "chapter": "110.00",
             "series_id": 2,
             "release_date": 1654819200,
             "edit_time": 1654819200
@@ -2154,7 +2167,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "109.0",
+            "chapter": "109.00",
             "series_id": 2,
             "release_date": 1654041600,
             "edit_time": 1654041600
@@ -2167,7 +2180,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "108.0",
+            "chapter": "108.00",
             "series_id": 2,
             "release_date": 1653436800,
             "edit_time": 1653436800
@@ -2180,7 +2193,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "107.0",
+            "chapter": "107.00",
             "series_id": 2,
             "release_date": 1652918400,
             "edit_time": 1652918400
@@ -2193,7 +2206,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "106.0",
+            "chapter": "106.00",
             "series_id": 2,
             "release_date": 1652486400,
             "edit_time": 1652486400
@@ -2206,7 +2219,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "105.0",
+            "chapter": "105.00",
             "series_id": 2,
             "release_date": 1652054400,
             "edit_time": 1737986706
@@ -2219,7 +2232,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "104.0",
+            "chapter": "104.00",
             "series_id": 2,
             "release_date": 1650758400,
             "edit_time": 1650758400
@@ -2232,7 +2245,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "103.0",
+            "chapter": "103.00",
             "series_id": 2,
             "release_date": 1650240000,
             "edit_time": 1650240000
@@ -2245,7 +2258,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "102.0",
+            "chapter": "102.00",
             "series_id": 2,
             "release_date": 1649721600,
             "edit_time": 1649721600
@@ -2258,7 +2271,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "101.0",
+            "chapter": "101.00",
             "series_id": 2,
             "release_date": 1649116800,
             "edit_time": 1649116800
@@ -2271,7 +2284,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "100.0",
+            "chapter": "100.00",
             "series_id": 2,
             "release_date": 1648252800,
             "edit_time": 1648252800
@@ -2284,7 +2297,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "99.0",
+            "chapter": "99.00",
             "series_id": 2,
             "release_date": 1647820800,
             "edit_time": 1737987012
@@ -2297,7 +2310,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "98.0",
+            "chapter": "98.00",
             "series_id": 2,
             "release_date": 1647216000,
             "edit_time": 1647216000
@@ -2310,7 +2323,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "97.0",
+            "chapter": "97.00",
             "series_id": 2,
             "release_date": 1646697600,
             "edit_time": 1646697600
@@ -2323,7 +2336,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "96.0",
+            "chapter": "96.00",
             "series_id": 2,
             "release_date": 1646092800,
             "edit_time": 1646092800
@@ -2336,7 +2349,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "95.0",
+            "chapter": "95.00",
             "series_id": 2,
             "release_date": 1645315200,
             "edit_time": 1645315200
@@ -2349,7 +2362,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "94.0",
+            "chapter": "94.00",
             "series_id": 2,
             "release_date": 1644710400,
             "edit_time": 1644710400
@@ -2362,7 +2375,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "93.0",
+            "chapter": "93.00",
             "series_id": 2,
             "release_date": 1644192000,
             "edit_time": 1644192000
@@ -2375,7 +2388,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "92.0",
+            "chapter": "92.00",
             "series_id": 2,
             "release_date": 1643587200,
             "edit_time": 1643587200
@@ -2388,7 +2401,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "91.0",
+            "chapter": "91.00",
             "series_id": 2,
             "release_date": 1642982400,
             "edit_time": 1642982400
@@ -2401,7 +2414,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "90.0",
+            "chapter": "90.00",
             "series_id": 2,
             "release_date": 1642291200,
             "edit_time": 1642291200
@@ -2414,7 +2427,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "89.0",
+            "chapter": "89.00",
             "series_id": 2,
             "release_date": 1641686400,
             "edit_time": 1641686400
@@ -2427,7 +2440,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "88.0",
+            "chapter": "88.00",
             "series_id": 2,
             "release_date": 1641168000,
             "edit_time": 1641168000
@@ -2440,7 +2453,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "87.0",
+            "chapter": "87.00",
             "series_id": 2,
             "release_date": 1640390400,
             "edit_time": 1640390400
@@ -2453,7 +2466,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "86.0",
+            "chapter": "86.00",
             "series_id": 2,
             "release_date": 1639872000,
             "edit_time": 1639872000
@@ -2466,7 +2479,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "85.0",
+            "chapter": "85.00",
             "series_id": 2,
             "release_date": 1639180800,
             "edit_time": 1639180800
@@ -2479,7 +2492,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "84.0",
+            "chapter": "84.00",
             "series_id": 2,
             "release_date": 1638576000,
             "edit_time": 1638576000
@@ -2492,7 +2505,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "83.0",
+            "chapter": "83.00",
             "series_id": 2,
             "release_date": 1638057600,
             "edit_time": 1638057600
@@ -2505,7 +2518,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "82.0",
+            "chapter": "82.00",
             "series_id": 2,
             "release_date": 1637366400,
             "edit_time": 1637366400
@@ -2518,7 +2531,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "81.0",
+            "chapter": "81.00",
             "series_id": 2,
             "release_date": 1636675200,
             "edit_time": 1636675200
@@ -2531,7 +2544,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "80.0",
+            "chapter": "80.00",
             "series_id": 2,
             "release_date": 1636416000,
             "edit_time": 1636416000
@@ -2544,7 +2557,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "79.0",
+            "chapter": "79.00",
             "series_id": 2,
             "release_date": 1635811200,
             "edit_time": 1635811200
@@ -2557,7 +2570,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "78.0",
+            "chapter": "78.00",
             "series_id": 2,
             "release_date": 1635033600,
             "edit_time": 1635033600
@@ -2570,7 +2583,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "77.0",
+            "chapter": "77.00",
             "series_id": 2,
             "release_date": 1634256000,
             "edit_time": 1634256000
@@ -2583,7 +2596,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "76.0",
+            "chapter": "76.00",
             "series_id": 2,
             "release_date": 1633824000,
             "edit_time": 1633824000
@@ -2596,7 +2609,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "75.0",
+            "chapter": "75.00",
             "series_id": 2,
             "release_date": 1633132800,
             "edit_time": 1633132800
@@ -2609,7 +2622,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "74.0",
+            "chapter": "74.00",
             "series_id": 2,
             "release_date": 1632528000,
             "edit_time": 1632528000
@@ -2622,7 +2635,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "73.0",
+            "chapter": "73.00",
             "series_id": 2,
             "release_date": 1631836800,
             "edit_time": 1631836800
@@ -2635,7 +2648,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "72.0",
+            "chapter": "72.00",
             "series_id": 2,
             "release_date": 1631145600,
             "edit_time": 1631145600
@@ -2648,7 +2661,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "71.0",
+            "chapter": "71.00",
             "series_id": 2,
             "release_date": 1630713600,
             "edit_time": 1630713600
@@ -2661,7 +2674,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "70.0",
+            "chapter": "70.00",
             "series_id": 2,
             "release_date": 1630108800,
             "edit_time": 1630108800
@@ -2674,7 +2687,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "69.0",
+            "chapter": "69.00",
             "series_id": 2,
             "release_date": 1629504000,
             "edit_time": 1629504000
@@ -2687,7 +2700,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "68.0",
+            "chapter": "68.00",
             "series_id": 2,
             "release_date": 1628726400,
             "edit_time": 1628726400
@@ -2700,7 +2713,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "67.0",
+            "chapter": "67.00",
             "series_id": 2,
             "release_date": 1628294400,
             "edit_time": 1628294400
@@ -2713,7 +2726,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "66.0",
+            "chapter": "66.00",
             "series_id": 2,
             "release_date": 1627603200,
             "edit_time": 1627603200
@@ -2726,7 +2739,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "65.0",
+            "chapter": "65.00",
             "series_id": 2,
             "release_date": 1627171200,
             "edit_time": 1627171200
@@ -2739,7 +2752,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "64.0",
+            "chapter": "64.00",
             "series_id": 2,
             "release_date": 1626652800,
             "edit_time": 1626652800
@@ -2752,7 +2765,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "63.0",
+            "chapter": "63.00",
             "series_id": 2,
             "release_date": 1625961600,
             "edit_time": 1625961600
@@ -2765,7 +2778,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "62.0",
+            "chapter": "62.00",
             "series_id": 2,
             "release_date": 1625356800,
             "edit_time": 1625356800
@@ -2778,7 +2791,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "61.0",
+            "chapter": "61.00",
             "series_id": 2,
             "release_date": 1624752000,
             "edit_time": 1624752000
@@ -2791,7 +2804,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "60.0",
+            "chapter": "60.00",
             "series_id": 2,
             "release_date": 1624147200,
             "edit_time": 1624147200
@@ -2804,7 +2817,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "59.0",
+            "chapter": "59.00",
             "series_id": 2,
             "release_date": 1623369600,
             "edit_time": 1623369600
@@ -2817,7 +2830,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "58.0",
+            "chapter": "58.00",
             "series_id": 2,
             "release_date": 1622937600,
             "edit_time": 1622937600
@@ -2830,7 +2843,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "57.0",
+            "chapter": "57.00",
             "series_id": 2,
             "release_date": 1622937600,
             "edit_time": 1622937600
@@ -2843,7 +2856,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "56.0",
+            "chapter": "56.00",
             "series_id": 2,
             "release_date": 1621036800,
             "edit_time": 1621036800
@@ -2856,7 +2869,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "55.0",
+            "chapter": "55.00",
             "series_id": 2,
             "release_date": 1620604800,
             "edit_time": 1620604800
@@ -2869,7 +2882,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "54.0",
+            "chapter": "54.00",
             "series_id": 2,
             "release_date": 1620086400,
             "edit_time": 1620086400
@@ -2882,7 +2895,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "53.0",
+            "chapter": "53.00",
             "series_id": 2,
             "release_date": 1619654400,
             "edit_time": 1619654400
@@ -2895,7 +2908,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "52.0",
+            "chapter": "52.00",
             "series_id": 2,
             "release_date": 1619654400,
             "edit_time": 1619654400
@@ -2908,7 +2921,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "51.0",
+            "chapter": "51.00",
             "series_id": 2,
             "release_date": 1617840000,
             "edit_time": 1617840000
@@ -2921,7 +2934,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "50.0",
+            "chapter": "50.00",
             "series_id": 2,
             "release_date": 1617235200,
             "edit_time": 1617235200
@@ -2934,7 +2947,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "49.0",
+            "chapter": "49.00",
             "series_id": 2,
             "release_date": 1616630400,
             "edit_time": 1616630400
@@ -2947,7 +2960,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "48.0",
+            "chapter": "48.00",
             "series_id": 2,
             "release_date": 1732683634,
             "edit_time": 1732683634
@@ -2960,7 +2973,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "47.0",
+            "chapter": "47.00",
             "series_id": 2,
             "release_date": 1615420800,
             "edit_time": 1615420800
@@ -2973,7 +2986,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "46.0",
+            "chapter": "46.00",
             "series_id": 2,
             "release_date": 1614816000,
             "edit_time": 1614816000
@@ -2986,7 +2999,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "45.0",
+            "chapter": "45.00",
             "series_id": 2,
             "release_date": 1614211200,
             "edit_time": 1614211200
@@ -2999,7 +3012,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "44.0",
+            "chapter": "44.00",
             "series_id": 2,
             "release_date": 1613606400,
             "edit_time": 1613606400
@@ -3012,7 +3025,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "43.0",
+            "chapter": "43.00",
             "series_id": 2,
             "release_date": 1612915200,
             "edit_time": 1612915200
@@ -3025,7 +3038,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "42.0",
+            "chapter": "42.00",
             "series_id": 2,
             "release_date": 1612310400,
             "edit_time": 1612310400
@@ -3038,7 +3051,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "41.0",
+            "chapter": "41.00",
             "series_id": 2,
             "release_date": 1611878400,
             "edit_time": 1611878400
@@ -3051,7 +3064,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "40.0",
+            "chapter": "40.00",
             "series_id": 2,
             "release_date": 1611878400,
             "edit_time": 1611878400
@@ -3064,7 +3077,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "39.0",
+            "chapter": "39.00",
             "series_id": 2,
             "release_date": 1611878400,
             "edit_time": 1611878400
@@ -3077,7 +3090,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "38.0",
+            "chapter": "38.00",
             "series_id": 2,
             "release_date": 1611878400,
             "edit_time": 1611878400
@@ -3090,7 +3103,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "37.0",
+            "chapter": "37.00",
             "series_id": 2,
             "release_date": 1611878400,
             "edit_time": 1611878400
@@ -3103,7 +3116,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "36.0",
+            "chapter": "36.00",
             "series_id": 2,
             "release_date": 1611878400,
             "edit_time": 1611878400
@@ -3116,7 +3129,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "35.0",
+            "chapter": "35.00",
             "series_id": 2,
             "release_date": 1611878400,
             "edit_time": 1611878400
@@ -3129,7 +3142,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "34.0",
+            "chapter": "34.00",
             "series_id": 2,
             "release_date": 1611878400,
             "edit_time": 1611878400
@@ -3142,7 +3155,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "33.0",
+            "chapter": "33.00",
             "series_id": 2,
             "release_date": 1611878400,
             "edit_time": 1611878400
@@ -3155,7 +3168,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "32.0",
+            "chapter": "32.00",
             "series_id": 2,
             "release_date": 1611878400,
             "edit_time": 1611878400
@@ -3168,7 +3181,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "31.0",
+            "chapter": "31.00",
             "series_id": 2,
             "release_date": 1611878400,
             "edit_time": 1611878400
@@ -3181,7 +3194,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "30.0",
+            "chapter": "30.00",
             "series_id": 2,
             "release_date": 1611878400,
             "edit_time": 1611878400
@@ -3194,7 +3207,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "29.0",
+            "chapter": "29.00",
             "series_id": 2,
             "release_date": 1611878400,
             "edit_time": 1611878400
@@ -3207,7 +3220,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "28.0",
+            "chapter": "28.00",
             "series_id": 2,
             "release_date": 1611878400,
             "edit_time": 1611878400
@@ -3220,7 +3233,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "27.0",
+            "chapter": "27.00",
             "series_id": 2,
             "release_date": 1611878400,
             "edit_time": 1611878400
@@ -3233,7 +3246,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "26.0",
+            "chapter": "26.00",
             "series_id": 2,
             "release_date": 1611878400,
             "edit_time": 1734206536
@@ -3246,7 +3259,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "25.0",
+            "chapter": "25.00",
             "series_id": 2,
             "release_date": 1611792000,
             "edit_time": 1611792000
@@ -3259,7 +3272,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "24.0",
+            "chapter": "24.00",
             "series_id": 2,
             "release_date": 1611792000,
             "edit_time": 1611792000
@@ -3272,7 +3285,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "23.0",
+            "chapter": "23.00",
             "series_id": 2,
             "release_date": 1611792000,
             "edit_time": 1611792000
@@ -3285,7 +3298,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "22.0",
+            "chapter": "22.00",
             "series_id": 2,
             "release_date": 1611792000,
             "edit_time": 1611792000
@@ -3298,7 +3311,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "21.0",
+            "chapter": "21.00",
             "series_id": 2,
             "release_date": 1611792000,
             "edit_time": 1611792000
@@ -3311,7 +3324,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "20.0",
+            "chapter": "20.00",
             "series_id": 2,
             "release_date": 1611792000,
             "edit_time": 1734133203
@@ -3324,7 +3337,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "19.0",
+            "chapter": "19.00",
             "series_id": 2,
             "release_date": 1611792000,
             "edit_time": 1611792000
@@ -3337,7 +3350,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "18.0",
+            "chapter": "18.00",
             "series_id": 2,
             "release_date": 1611792000,
             "edit_time": 1611792000
@@ -3350,7 +3363,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "17.0",
+            "chapter": "17.00",
             "series_id": 2,
             "release_date": 1611792000,
             "edit_time": 1611792000
@@ -3363,7 +3376,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "16.0",
+            "chapter": "16.00",
             "series_id": 2,
             "release_date": 1611792000,
             "edit_time": 1611792000
@@ -3376,7 +3389,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "15.0",
+            "chapter": "15.00",
             "series_id": 2,
             "release_date": 1611792000,
             "edit_time": 1611792000
@@ -3389,7 +3402,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "14.0",
+            "chapter": "14.00",
             "series_id": 2,
             "release_date": 1611792000,
             "edit_time": 1611792000
@@ -3402,7 +3415,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "13.0",
+            "chapter": "13.00",
             "series_id": 2,
             "release_date": 1611792000,
             "edit_time": 1611792000
@@ -3415,7 +3428,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "12.0",
+            "chapter": "12.00",
             "series_id": 2,
             "release_date": 1611792000,
             "edit_time": 1611792000
@@ -3428,7 +3441,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "11.0",
+            "chapter": "11.00",
             "series_id": 2,
             "release_date": 1611792000,
             "edit_time": 1611792000
@@ -3441,7 +3454,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "10.0",
+            "chapter": "10.00",
             "series_id": 2,
             "release_date": 1611792000,
             "edit_time": 1611792000
@@ -3454,7 +3467,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "9.0",
+            "chapter": "9.00",
             "series_id": 2,
             "release_date": 1611792000,
             "edit_time": 1611792000
@@ -3467,7 +3480,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "8.0",
+            "chapter": "8.00",
             "series_id": 2,
             "release_date": 1611792000,
             "edit_time": 1611792000
@@ -3480,7 +3493,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "7.0",
+            "chapter": "7.00",
             "series_id": 2,
             "release_date": 1611792000,
             "edit_time": 1611792000
@@ -3493,7 +3506,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "6.0",
+            "chapter": "6.00",
             "series_id": 2,
             "release_date": 1611792000,
             "edit_time": 1611792000
@@ -3506,7 +3519,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "5.0",
+            "chapter": "5.00",
             "series_id": 2,
             "release_date": 1611792000,
             "edit_time": 1611792000
@@ -3519,7 +3532,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "4.0",
+            "chapter": "4.00",
             "series_id": 2,
             "release_date": 1611792000,
             "edit_time": 1611792000
@@ -3532,7 +3545,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "3.0",
+            "chapter": "3.00",
             "series_id": 2,
             "release_date": 1611792000,
             "edit_time": 1611792000
@@ -3545,7 +3558,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "2.0",
+            "chapter": "2.00",
             "series_id": 2,
             "release_date": 1611792000,
             "edit_time": 1751289011
@@ -3558,7 +3571,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "1.0",
+            "chapter": "1.00",
             "series_id": 2,
             "release_date": 1611792000,
             "edit_time": 1611792000
@@ -3569,7 +3582,7 @@
             "token": "b13896619320cdb7",
             "title": null,
             "cover": null,
-            "chapter": "0.5",
+            "chapter": "0.50",
             "series_id": 2,
             "release_date": 1732178940,
             "edit_time": 1732178940
@@ -3582,7 +3595,7 @@
             "cover": {
                 "cover": "cover.png"
             },
-            "chapter": "0.0",
+            "chapter": "0.00",
             "series_id": 2,
             "release_date": 1611792000,
             "edit_time": 1611792000
