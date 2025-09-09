@@ -1,6 +1,19 @@
 {
-    "chid": "0.00",
+    "chid": "0.50",
     "data": [
+        {
+            "chapter_id": 10654,
+            "likes": 0,
+            "token": "ecd294439b94244b",
+            "title": "New Fable (Part 3)",
+            "cover": {
+                "cover": "cover.png"
+            },
+            "chapter": "278.00",
+            "series_id": 2,
+            "release_date": 1756835076,
+            "edit_time": 1756840275
+        },
         {
             "chapter_id": 10622,
             "likes": 0,
