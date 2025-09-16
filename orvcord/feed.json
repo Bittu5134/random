@@ -1,6 +1,19 @@
 {
-    "chid": "0.50",
+    "chid": "1.00",
     "data": [
+        {
+            "chapter_id": 10682,
+            "likes": 0,
+            "token": "349b4037a7e211f3",
+            "title": "New Fable (Part 4)",
+            "cover": {
+                "cover": "cover.png"
+            },
+            "chapter": "279.00",
+            "series_id": 2,
+            "release_date": 1757438360,
+            "edit_time": 1757438360
+        },
         {
             "chapter_id": 10654,
             "likes": 0,
