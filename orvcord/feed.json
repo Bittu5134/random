@@ -1,6 +1,19 @@
 {
-    "chid": "1.00",
+    "chid": "2.00",
     "data": [
+        {
+            "chapter_id": 10717,
+            "likes": 0,
+            "token": "90fd1f8e797bbd6c",
+            "title": "New Fable (Part 5)",
+            "cover": {
+                "cover": "cover.png"
+            },
+            "chapter": "280.00",
+            "series_id": 2,
+            "release_date": 1758048346,
+            "edit_time": 1758048346
+        },
         {
             "chapter_id": 10682,
             "likes": 0,
