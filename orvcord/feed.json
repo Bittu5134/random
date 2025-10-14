@@ -1,6 +1,19 @@
 {
-    "chid": "4.00",
+    "chid": "5.00",
     "data": [
+        {
+            "chapter_id": 10819,
+            "likes": 0,
+            "token": "5791a1067ee0b353",
+            "title": "Demon King Selection (Part 3)",
+            "cover": {
+                "cover": "cover.png"
+            },
+            "chapter": "283.00",
+            "series_id": 2,
+            "release_date": 1759850982,
+            "edit_time": 1759852716
+        },
         {
             "chapter_id": 10790,
             "likes": 0,
