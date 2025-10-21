@@ -1,6 +1,19 @@
 {
-    "chid": "5.00",
+    "chid": "6.00",
     "data": [
+        {
+            "chapter_id": 10844,
+            "likes": 0,
+            "token": "d5f5bf7b8e55f254",
+            "title": "Demon King Selection (Part 4)",
+            "cover": {
+                "cover": "cover.png"
+            },
+            "chapter": "284.00",
+            "series_id": 2,
+            "release_date": 1760471640,
+            "edit_time": 1760471640
+        },
         {
             "chapter_id": 10819,
             "likes": 0,
