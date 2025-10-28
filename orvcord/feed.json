@@ -1,6 +1,19 @@
 {
-    "chid": "6.00",
+    "chid": "7.00",
     "data": [
+        {
+            "chapter_id": 10874,
+            "likes": 0,
+            "token": "fdc41e79cae3f661",
+            "title": "Demon King Selection (Part 5)",
+            "cover": {
+                "cover": "cover.png"
+            },
+            "chapter": "285.00",
+            "series_id": 2,
+            "release_date": 1761082372,
+            "edit_time": 1761082372
+        },
         {
             "chapter_id": 10844,
             "likes": 0,
