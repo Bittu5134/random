@@ -1,6 +1,19 @@
 {
-    "chid": "7.00",
+    "chid": "8.00",
     "data": [
+        {
+            "chapter_id": 10904,
+            "likes": 0,
+            "token": "4bd31297726eed93",
+            "title": "Demon King Selection (Part 6)",
+            "cover": {
+                "cover": "cover.png"
+            },
+            "chapter": "286.00",
+            "series_id": 2,
+            "release_date": 1761683107,
+            "edit_time": 1761683107
+        },
         {
             "chapter_id": 10874,
             "likes": 0,
@@ -674,7 +687,7 @@
             "chapter": "233.00",
             "series_id": 2,
             "release_date": 1729555200,
-            "edit_time": 1733343699
+            "edit_time": 1761862253
         },
         {
             "chapter_id": 1795,
@@ -2781,7 +2794,7 @@
             "chapter": "70.00",
             "series_id": 2,
             "release_date": 1630108800,
-            "edit_time": 1630108800
+            "edit_time": 1761752555
         },
         {
             "chapter_id": 1754,
@@ -2794,7 +2807,7 @@
             "chapter": "69.00",
             "series_id": 2,
             "release_date": 1629504000,
-            "edit_time": 1629504000
+            "edit_time": 1761752604
         },
         {
             "chapter_id": 1820,
@@ -2820,7 +2833,7 @@
             "chapter": "67.00",
             "series_id": 2,
             "release_date": 1628294400,
-            "edit_time": 1628294400
+            "edit_time": 1761752642
         },
         {
             "chapter_id": 1697,
@@ -3684,12 +3697,12 @@
             "chapter_id": 1678,
             "likes": 0,
             "token": "b13896619320cdb7",
-            "title": null,
+            "title": "Where does this belong?",
             "cover": null,
             "chapter": "0.50",
             "series_id": 2,
             "release_date": 1732178940,
-            "edit_time": 1732178940
+            "edit_time": 1761852001
         },
         {
             "chapter_id": 1768,
