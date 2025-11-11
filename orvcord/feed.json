@@ -1,6 +1,19 @@
 {
-    "chid": "8.00",
+    "chid": "9.00",
     "data": [
+        {
+            "chapter_id": 10927,
+            "likes": 0,
+            "token": "1201acab374e145b",
+            "title": "Character (Part 1)",
+            "cover": {
+                "cover": "cover.png"
+            },
+            "chapter": "287.00",
+            "series_id": 2,
+            "release_date": 1762291764,
+            "edit_time": 1762291764
+        },
         {
             "chapter_id": 10904,
             "likes": 0,
@@ -3106,7 +3119,7 @@
             "chapter": "46.00",
             "series_id": 2,
             "release_date": 1614816000,
-            "edit_time": 1614816000
+            "edit_time": 1762119660
         },
         {
             "chapter_id": 1798,
