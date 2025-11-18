@@ -1,14 +1,23 @@
 {
-    "chid": "9.00",
+    "chid": "10.00",
     "data": [
+        {
+            "chapter_id": 10952,
+            "likes": 0,
+            "token": "01c4c7a353a1cf2c",
+            "title": "Character (Part 2)",
+            "cover": 1,
+            "chapter": "288.00",
+            "series_id": 2,
+            "release_date": 1762898261,
+            "edit_time": 1762898261
+        },
         {
             "chapter_id": 10927,
             "likes": 0,
             "token": "1201acab374e145b",
             "title": "Character (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "287.00",
             "series_id": 2,
             "release_date": 1762291764,
@@ -19,9 +28,7 @@
             "likes": 0,
             "token": "4bd31297726eed93",
             "title": "Demon King Selection (Part 6)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "286.00",
             "series_id": 2,
             "release_date": 1761683107,
@@ -32,9 +39,7 @@
             "likes": 0,
             "token": "fdc41e79cae3f661",
             "title": "Demon King Selection (Part 5)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "285.00",
             "series_id": 2,
             "release_date": 1761082372,
@@ -45,9 +50,7 @@
             "likes": 0,
             "token": "d5f5bf7b8e55f254",
             "title": "Demon King Selection (Part 4)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "284.00",
             "series_id": 2,
             "release_date": 1760471640,
@@ -58,9 +61,7 @@
             "likes": 0,
             "token": "5791a1067ee0b353",
             "title": "Demon King Selection (Part 3)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "283.00",
             "series_id": 2,
             "release_date": 1759850982,
@@ -71,9 +72,7 @@
             "likes": 0,
             "token": "36c7d52328e2f308",
             "title": "Demon King Selection (Part 2)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "282.00",
             "series_id": 2,
             "release_date": 1759247872,
@@ -84,9 +83,7 @@
             "likes": 0,
             "token": "79c2cf38ecc5fd25",
             "title": "Demon King Selection (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "281.00",
             "series_id": 2,
             "release_date": 1758644386,
@@ -97,9 +94,7 @@
             "likes": 0,
             "token": "90fd1f8e797bbd6c",
             "title": "New Fable (Part 5)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "280.00",
             "series_id": 2,
             "release_date": 1758048346,
@@ -110,9 +105,7 @@
             "likes": 0,
             "token": "349b4037a7e211f3",
             "title": "New Fable (Part 4)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "279.00",
             "series_id": 2,
             "release_date": 1757438360,
@@ -123,9 +116,7 @@
             "likes": 0,
             "token": "ecd294439b94244b",
             "title": "New Fable (Part 3)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "278.00",
             "series_id": 2,
             "release_date": 1756835076,
@@ -136,9 +127,7 @@
             "likes": 0,
             "token": "f9cca520bf1b45a0",
             "title": "New Fable (Part 2)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "277.00",
             "series_id": 2,
             "release_date": 1756226578,
@@ -149,9 +138,7 @@
             "likes": 0,
             "token": "bc367c8f39aa7823",
             "title": "New Fable (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "276.00",
             "series_id": 2,
             "release_date": 1755622233,
@@ -162,9 +149,7 @@
             "likes": 0,
             "token": "bdd0eadeab7a221a",
             "title": "Gourmet Association (Part 6)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "275.00",
             "series_id": 2,
             "release_date": 1755022655,
@@ -175,9 +160,7 @@
             "likes": 0,
             "token": "c9d76b70372d4eea",
             "title": "Gourmet Association (Part 5)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "274.00",
             "series_id": 2,
             "release_date": 1754420993,
@@ -188,9 +171,7 @@
             "likes": 0,
             "token": "d2b060e57d70a7e8",
             "title": "Gourmet Association (Part 4)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "273.00",
             "series_id": 2,
             "release_date": 1753812515,
@@ -201,9 +182,7 @@
             "likes": 0,
             "token": "e8c2dd9733dda321",
             "title": "Gourmet Association (Part 3)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "272.00",
             "series_id": 2,
             "release_date": 1753215010,
@@ -214,9 +193,7 @@
             "likes": 0,
             "token": "b12b6e3b7caccb16",
             "title": "Gourmet Association (Part 2)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "271.00",
             "series_id": 2,
             "release_date": 1752593379,
@@ -227,9 +204,7 @@
             "likes": 0,
             "token": "7e8a4986ee287663",
             "title": "Gourmet Association (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "270.00",
             "series_id": 2,
             "release_date": 1751989285,
@@ -240,9 +215,7 @@
             "likes": 0,
             "token": "414e8ca13ad34edd",
             "title": "Swindler (Part 3)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "269.00",
             "series_id": 2,
             "release_date": 1751390748,
@@ -253,9 +226,7 @@
             "likes": 0,
             "token": "45d5066a7970a19b",
             "title": "Swindler (Part 2)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "268.00",
             "series_id": 2,
             "release_date": 1750810672,
@@ -266,9 +237,7 @@
             "likes": 0,
             "token": "584117b2c95612f4",
             "title": "Swindler (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "267.00",
             "series_id": 2,
             "release_date": 1750176977,
@@ -279,9 +248,7 @@
             "likes": 0,
             "token": "bcaa0c78a1c0a2ca",
             "title": "Sky-Breaking Sword Saint (Part 7)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "266.00",
             "series_id": 2,
             "release_date": 1749570198,
@@ -292,9 +259,7 @@
             "likes": 0,
             "token": "ff67c7539697b25c",
             "title": "Sky-Breaking Sword Saint (Part 6)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "265.00",
             "series_id": 2,
             "release_date": 1748966138,
@@ -305,9 +270,7 @@
             "likes": 0,
             "token": "ba2e3333a0cc7421",
             "title": "Sky-Breaking Sword Saint (Part 5)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "264.00",
             "series_id": 2,
             "release_date": 1748359050,
@@ -318,9 +281,7 @@
             "likes": 0,
             "token": "0794f866049d23bb",
             "title": "Sky-Breaking Sword Saint (Part 4)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "263.00",
             "series_id": 2,
             "release_date": 1747759977,
@@ -331,9 +292,7 @@
             "likes": 0,
             "token": "a27690f53f9f3f69",
             "title": "Sky-Breaking Sword Saint (Part 3)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "262.00",
             "series_id": 2,
             "release_date": 1747149272,
@@ -344,9 +303,7 @@
             "likes": 0,
             "token": "9ee08c1b0eb9f18f",
             "title": "Sky-Breaking Sword Saint (Part 2)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "261.00",
             "series_id": 2,
             "release_date": 1746545150,
@@ -357,9 +314,7 @@
             "likes": 0,
             "token": "66ab3019a12539b5",
             "title": "Sky-Breaking Sword Saint (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "260.00",
             "series_id": 2,
             "release_date": 1745940693,
@@ -370,9 +325,7 @@
             "likes": 0,
             "token": "9bb6a7043b5b8f86",
             "title": "Asmodeus (Part 7)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "259.00",
             "series_id": 2,
             "release_date": 1745336594,
@@ -383,9 +336,7 @@
             "likes": 0,
             "token": "bf609331a5bb59f7",
             "title": "Asmodeus (Part 6)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "258.00",
             "series_id": 2,
             "release_date": 1744731974,
@@ -396,9 +347,7 @@
             "likes": 0,
             "token": "70f6a37399babeba",
             "title": "Asmodeus (Part 5)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "257.00",
             "series_id": 2,
             "release_date": 1744126084,
@@ -409,9 +358,7 @@
             "likes": 0,
             "token": "fb529b505b929c25",
             "title": "Asmodeus (Part 4)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "256.00",
             "series_id": 2,
             "release_date": 1743519548,
@@ -422,9 +369,7 @@
             "likes": 0,
             "token": "a2c7b55abd2a27e3",
             "title": "Asmodeus (Part 3)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "255.00",
             "series_id": 2,
             "release_date": 1742916004,
@@ -435,9 +380,7 @@
             "likes": 0,
             "token": "d5941c08c568a05b",
             "title": "Asmodeus (Part 2)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "254.00",
             "series_id": 2,
             "release_date": 1742311614,
@@ -448,9 +391,7 @@
             "likes": 0,
             "token": "7ac6566e10b4086d",
             "title": "Asmodeus (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "253.00",
             "series_id": 2,
             "release_date": 1741707761,
@@ -461,9 +402,7 @@
             "likes": 0,
             "token": "84185a02acdae926",
             "title": "Real Revolutionary (Part 8)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "252.00",
             "series_id": 2,
             "release_date": 1741101427,
@@ -474,9 +413,7 @@
             "likes": 0,
             "token": "8a3aadac0c404497",
             "title": "Real Revolutionary (Part 7)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "251.00",
             "series_id": 2,
             "release_date": 1740497631,
@@ -487,9 +424,7 @@
             "likes": 0,
             "token": "6f04de6cbe0afbb7",
             "title": "Real Revolutionary (Part 6)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "250.00",
             "series_id": 2,
             "release_date": 1739892068,
@@ -500,9 +435,7 @@
             "likes": 0,
             "token": "68a73bbf30fae401",
             "title": "Real Revolutionary (Part 5)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "249.00",
             "series_id": 2,
             "release_date": 1739285311,
@@ -513,9 +446,7 @@
             "likes": 0,
             "token": "75afc495f23c4718",
             "title": "Real Revolutionary (Part 4)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "248.00",
             "series_id": 2,
             "release_date": 1738681504,
@@ -526,9 +457,7 @@
             "likes": 0,
             "token": "eff9be706fbe1731",
             "title": "Real Revolutionary (Part 3)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "247.00",
             "series_id": 2,
             "release_date": 1738076550,
@@ -539,9 +468,7 @@
             "likes": 0,
             "token": "a95837ce26694c71",
             "title": "Real Revolutionary (Part 2)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "246.00",
             "series_id": 2,
             "release_date": 1737471226,
@@ -552,9 +479,7 @@
             "likes": 0,
             "token": "9476def55ae802de",
             "title": "Real Revolutionary (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "245.00",
             "series_id": 2,
             "release_date": 1736868662,
@@ -565,9 +490,7 @@
             "likes": 0,
             "token": "8144d01ff7d1f5e9",
             "title": "Hatching (Part 3)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "244.00",
             "series_id": 2,
             "release_date": 1736264882,
@@ -578,9 +501,7 @@
             "likes": 0,
             "token": "83c5b85b446ab21c",
             "title": "Hatching (Part 2)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "243.00",
             "series_id": 2,
             "release_date": 1735659113,
@@ -591,9 +512,7 @@
             "likes": 0,
             "token": "38a1148132b9f5f9",
             "title": "Hatching (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "242.00",
             "series_id": 2,
             "release_date": 1735056883,
@@ -637,9 +556,7 @@
             "likes": 0,
             "token": "32ec944c7802f7e7",
             "title": "Unidentified Wall (Part 4)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "238.00",
             "series_id": 2,
             "release_date": 1732635591,
@@ -650,9 +567,7 @@
             "likes": 0,
             "token": "baa3dbfa3ecbcb32",
             "title": "Unidentified Wall (Part 3)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "237.00",
             "series_id": 2,
             "release_date": 1732372324,
@@ -773,9 +688,7 @@
             "likes": 0,
             "token": "511ffa8f2ba4165c",
             "title": "Landscape of the Demon Realm (Part 2)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "226.00",
             "series_id": 2,
             "release_date": 1725321600,
@@ -786,9 +699,7 @@
             "likes": 0,
             "token": "7770ca4df413ecd1",
             "title": "Landscape of the Demon Realm (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "225.00",
             "series_id": 2,
             "release_date": 1724716800,
@@ -799,9 +710,7 @@
             "likes": 0,
             "token": "038d6415b94408dc",
             "title": "Story Horizon (Part 4)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "224.00",
             "series_id": 2,
             "release_date": 1724112000,
@@ -812,9 +721,7 @@
             "likes": 0,
             "token": "310995525066e038",
             "title": "Story Horizon (Part 3)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "223.00",
             "series_id": 2,
             "release_date": 1723507200,
@@ -825,9 +732,7 @@
             "likes": 0,
             "token": "ab2ac1fb85b0c529",
             "title": "Story Horizon (Part 2)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "222.00",
             "series_id": 2,
             "release_date": 1722902400,
@@ -838,9 +743,7 @@
             "likes": 0,
             "token": "b7903decb58438ac",
             "title": "Story Horizon (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "221.00",
             "series_id": 2,
             "release_date": 1722297600,
@@ -851,9 +754,7 @@
             "likes": 0,
             "token": "46831699f0562850",
             "title": "The 73rd Demon King (Part 11)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "220.00",
             "series_id": 2,
             "release_date": 1721692800,
@@ -864,9 +765,7 @@
             "likes": 0,
             "token": "108c56975ef078e2",
             "title": "The 73rd Demon King (Part 10)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "219.00",
             "series_id": 2,
             "release_date": 1721088000,
@@ -877,9 +776,7 @@
             "likes": 0,
             "token": "ddc36ce0e272dbd4",
             "title": "The 73rd Demon King (Part 9)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "218.00",
             "series_id": 2,
             "release_date": 1720483200,
@@ -890,9 +787,7 @@
             "likes": 0,
             "token": "d3348ee967539268",
             "title": "The 73rd Demon King (Part 8)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "217.00",
             "series_id": 2,
             "release_date": 1719878400,
@@ -903,9 +798,7 @@
             "likes": 0,
             "token": "fb58cd63cbe11a07",
             "title": "The 73rd Demon King (Part 7)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "216.00",
             "series_id": 2,
             "release_date": 1719273600,
@@ -916,9 +809,7 @@
             "likes": 0,
             "token": "e56ffd7ec930545f",
             "title": "The 73rd Demon King (Part 6)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "215.00",
             "series_id": 2,
             "release_date": 1718668800,
@@ -929,9 +820,7 @@
             "likes": 0,
             "token": "ba7b76c603b98249",
             "title": "The 73rd Demon King (Part 5)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "214.00",
             "series_id": 2,
             "release_date": 1718064000,
@@ -942,9 +831,7 @@
             "likes": 0,
             "token": "c23ed059182bebbb",
             "title": "The 73rd Demon King (Part 4)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "213.00",
             "series_id": 2,
             "release_date": 1717459200,
@@ -955,9 +842,7 @@
             "likes": 0,
             "token": "953dcd24b8a55f15",
             "title": "The 73rd Demon King (Part 3)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "212.00",
             "series_id": 2,
             "release_date": 1716854400,
@@ -968,9 +853,7 @@
             "likes": 0,
             "token": "2469d0338eefe34c",
             "title": "The 73rd Demon King (Part 2)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "211.00",
             "series_id": 2,
             "release_date": 1716249600,
@@ -981,9 +864,7 @@
             "likes": 0,
             "token": "d0bfb188298c73d4",
             "title": "The 73rd Demon King (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "210.00",
             "series_id": 2,
             "release_date": 1715644800,
@@ -994,9 +875,7 @@
             "likes": 0,
             "token": "af5c923c0f9c20bb",
             "title": "Unable to be Eaten (Part 6)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "209.00",
             "series_id": 2,
             "release_date": 1715040000,
@@ -1007,9 +886,7 @@
             "likes": 0,
             "token": "cf1efe451660bd91",
             "title": "Unable to be Eaten (Part 5)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "208.00",
             "series_id": 2,
             "release_date": 1713830400,
@@ -1020,9 +897,7 @@
             "likes": 0,
             "token": "7f54b2c9244caf1d",
             "title": "Unable to be Eaten (Part 4)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "207.00",
             "series_id": 2,
             "release_date": 1713225600,
@@ -1033,9 +908,7 @@
             "likes": 0,
             "token": "dd21d161e128223a",
             "title": "Unable to be Eaten (Part 3)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "206.00",
             "series_id": 2,
             "release_date": 1712620800,
@@ -1046,9 +919,7 @@
             "likes": 0,
             "token": "332286012345a4b1",
             "title": "Unable to be Eaten (Part 2)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "205.00",
             "series_id": 2,
             "release_date": 1712016000,
@@ -1059,9 +930,7 @@
             "likes": 0,
             "token": "c8da8b421fd6f95a",
             "title": "Unable to be Eaten (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "204.00",
             "series_id": 2,
             "release_date": 1711411200,
@@ -1072,9 +941,7 @@
             "likes": 0,
             "token": "9a407df4cf96e3c5",
             "title": "Reading Again (Part 10)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "203.00",
             "series_id": 2,
             "release_date": 1710806400,
@@ -1085,9 +952,7 @@
             "likes": 0,
             "token": "59a4c8615b0b0c49",
             "title": "Reading Again (Part 9)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "202.00",
             "series_id": 2,
             "release_date": 1710201600,
@@ -1098,9 +963,7 @@
             "likes": 0,
             "token": "5bcfc68b48473631",
             "title": "Reading Again (Part 8)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "201.00",
             "series_id": 2,
             "release_date": 1709596800,
@@ -1111,9 +974,7 @@
             "likes": 0,
             "token": "c7ba7023fb92f85c",
             "title": "Reading Again (Part 7)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "200.00",
             "series_id": 2,
             "release_date": 1708992000,
@@ -1124,9 +985,7 @@
             "likes": 0,
             "token": "df5ed317a1363658",
             "title": "Reading Again (Part 6)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "199.00",
             "series_id": 2,
             "release_date": 1708387200,
@@ -1137,9 +996,7 @@
             "likes": 0,
             "token": "748c8484733af542",
             "title": "Reading Again (Part 5)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "198.00",
             "series_id": 2,
             "release_date": 1707782400,
@@ -1150,9 +1007,7 @@
             "likes": 0,
             "token": "d536f9eeab46c541",
             "title": "Reading Again (Part 4)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "197.00",
             "series_id": 2,
             "release_date": 1732682601,
@@ -1163,9 +1018,7 @@
             "likes": 0,
             "token": "0022493fb94d7cdf",
             "title": "Reading Again (Part 3)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "196.00",
             "series_id": 2,
             "release_date": 1706572800,
@@ -1176,9 +1029,7 @@
             "likes": 0,
             "token": "81982edadedd35ba",
             "title": "Reading Again (Part 2)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "195.00",
             "series_id": 2,
             "release_date": 1705968000,
@@ -1189,9 +1040,7 @@
             "likes": 0,
             "token": "a6cbd6a9d5c4a0e7",
             "title": "Reading Again (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "194.00",
             "series_id": 2,
             "release_date": 1705363200,
@@ -1202,9 +1051,7 @@
             "likes": 0,
             "token": "64a0ec1a8f695a24",
             "title": "Kim Dokja's Love (Part 11)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "193.00",
             "series_id": 2,
             "release_date": 1705363200,
@@ -1215,9 +1062,7 @@
             "likes": 0,
             "token": "de31e46701cb7bba",
             "title": "Kim Dokja's Love (Part 10)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "192.00",
             "series_id": 2,
             "release_date": 1704758400,
@@ -1228,9 +1073,7 @@
             "likes": 0,
             "token": "2837c8763aed3db9",
             "title": "Kim Dokja's Love (Part 9)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "191.00",
             "series_id": 2,
             "release_date": 1704153600,
@@ -1241,9 +1084,7 @@
             "likes": 0,
             "token": "927cb7334b8f56e3",
             "title": "Kim Dokja's Love (Part 8)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "190.00",
             "series_id": 2,
             "release_date": 1703548800,
@@ -1254,9 +1095,7 @@
             "likes": 0,
             "token": "bbcb9673de6057f4",
             "title": "Kim Dokja's Love (Part 7)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "189.00",
             "series_id": 2,
             "release_date": 1702944000,
@@ -1267,9 +1106,7 @@
             "likes": 0,
             "token": "2258b954053c7d9a",
             "title": "Kim Dokja's Love (Part 6)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "188.00",
             "series_id": 2,
             "release_date": 1732683713,
@@ -1280,9 +1117,7 @@
             "likes": 0,
             "token": "46396f8f675c21f5",
             "title": "Kim Dokja's Love (Part 5)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "187.00",
             "series_id": 2,
             "release_date": 1732683404,
@@ -1293,9 +1128,7 @@
             "likes": 0,
             "token": "0f9038ee567fe10c",
             "title": "Kim Dokja's Love (Part 4)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "186.00",
             "series_id": 2,
             "release_date": 1701129600,
@@ -1306,9 +1139,7 @@
             "likes": 0,
             "token": "08fc6d1d3a84e481",
             "title": "Kim Dokja's Love (Part 3)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "185.00",
             "series_id": 2,
             "release_date": 1732683732,
@@ -1319,9 +1150,7 @@
             "likes": 0,
             "token": "34c58ffb3f5eff3f",
             "title": "Kim Dokja's Love (Part 2)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "184.00",
             "series_id": 2,
             "release_date": 1699920000,
@@ -1332,9 +1161,7 @@
             "likes": 0,
             "token": "7016cd4f58671de1",
             "title": "Kim Dokja's Love (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "183.00",
             "series_id": 2,
             "release_date": 1699315200,
@@ -1345,9 +1172,7 @@
             "likes": 0,
             "token": "83664d8f07031c9f",
             "title": "Tomb of the Scenario (Part 5)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "182.00",
             "series_id": 2,
             "release_date": 1698710400,
@@ -1358,9 +1183,7 @@
             "likes": 0,
             "token": "b3a9c47f51d423ed",
             "title": "Tomb of the Scenario (Part 4)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "181.00",
             "series_id": 2,
             "release_date": 1698451200,
@@ -1371,9 +1194,7 @@
             "likes": 0,
             "token": "c6862087319af9bc",
             "title": "Tomb of the Scenario (Part 3)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "180.00",
             "series_id": 2,
             "release_date": 1697500800,
@@ -1384,9 +1205,7 @@
             "likes": 0,
             "token": "95cafe125bbb257c",
             "title": "Tomb of the Scenario (Part 2)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "179.00",
             "series_id": 2,
             "release_date": 1696982400,
@@ -1397,9 +1216,7 @@
             "likes": 0,
             "token": "a17c9537b1eb0251",
             "title": "Tomb of the Scenario (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "178.00",
             "series_id": 2,
             "release_date": 1696291200,
@@ -1410,9 +1227,7 @@
             "likes": 0,
             "token": "ce51ff44bf15b6ef",
             "title": "Dark Castle (Part 6)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "177.00",
             "series_id": 2,
             "release_date": 1695686400,
@@ -1423,9 +1238,7 @@
             "likes": 0,
             "token": "e35a40db2ffb2883",
             "title": "Dark Castle (Part 5)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "176.00",
             "series_id": 2,
             "release_date": 1695081600,
@@ -1436,9 +1249,7 @@
             "likes": 0,
             "token": "2c7628a80e164ad7",
             "title": "Dark Castle (Part 4)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "175.00",
             "series_id": 2,
             "release_date": 1694476800,
@@ -1449,9 +1260,7 @@
             "likes": 0,
             "token": "5995766c2740729b",
             "title": "Dark Castle (Part 3)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "174.00",
             "series_id": 2,
             "release_date": 1693872000,
@@ -1462,9 +1271,7 @@
             "likes": 0,
             "token": "980bd77fbef52ecb",
             "title": "Dark Castle (Part 2)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "173.00",
             "series_id": 2,
             "release_date": 1693267200,
@@ -1475,9 +1282,7 @@
             "likes": 0,
             "token": "4af5c957ee855cbb",
             "title": "Dark Castle (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "172.00",
             "series_id": 2,
             "release_date": 1692662400,
@@ -1488,9 +1293,7 @@
             "likes": 0,
             "token": "ff5d7006d3d28250",
             "title": "Constellation Banquet (Part 7)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "171.00",
             "series_id": 2,
             "release_date": 1692057600,
@@ -1501,9 +1304,7 @@
             "likes": 0,
             "token": "54755148e2777fde",
             "title": "Constellation Banquet (Part 6)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "170.00",
             "series_id": 2,
             "release_date": 1691452800,
@@ -1514,9 +1315,7 @@
             "likes": 0,
             "token": "45ccf4b882456acf",
             "title": "Constellation Banquet (Part 5)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "169.00",
             "series_id": 2,
             "release_date": 1690848000,
@@ -1527,9 +1326,7 @@
             "likes": 0,
             "token": "3b3b45b2b8e375c0",
             "title": "Constellation Banquet (Part 4)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "168.00",
             "series_id": 2,
             "release_date": 1690243200,
@@ -1540,9 +1337,7 @@
             "likes": 0,
             "token": "44612f24fec573d9",
             "title": "Constellation Banquet (Part 3)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "167.00",
             "series_id": 2,
             "release_date": 1689638400,
@@ -1553,9 +1348,7 @@
             "likes": 0,
             "token": "e8521bec4c4dcba8",
             "title": "Constellation Banquet (Part 2)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "166.00",
             "series_id": 2,
             "release_date": 1689033600,
@@ -1566,9 +1359,7 @@
             "likes": 0,
             "token": "601ce921e2f34bb7",
             "title": "Constellation Banquet (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "165.00",
             "series_id": 2,
             "release_date": 1688428800,
@@ -1579,9 +1370,7 @@
             "likes": 0,
             "token": "3306b5061225e798",
             "title": "The Strongest Sacrifice (Part 8)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "164.00",
             "series_id": 2,
             "release_date": 1687824000,
@@ -1592,9 +1381,7 @@
             "likes": 0,
             "token": "0549b8abb436f4a1",
             "title": "The Strongest Sacrifice (Part 7)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "163.00",
             "series_id": 2,
             "release_date": 1687219200,
@@ -1605,9 +1392,7 @@
             "likes": 0,
             "token": "9605c255b005f924",
             "title": "The Strongest Sacrifice (Part 6)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "162.00",
             "series_id": 2,
             "release_date": 1686614400,
@@ -1618,9 +1403,7 @@
             "likes": 0,
             "token": "d8dcb6735eac00d3",
             "title": "The Strongest Sacrifice (Part 5)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "161.00",
             "series_id": 2,
             "release_date": 1686009600,
@@ -1631,9 +1414,7 @@
             "likes": 0,
             "token": "11d5352f2965eb7c",
             "title": "The Strongest Sacrifice (Part 4)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "160.00",
             "series_id": 2,
             "release_date": 1685404800,
@@ -1644,9 +1425,7 @@
             "likes": 0,
             "token": "b14c2ba2eaefd383",
             "title": "The Strongest Sacrifice (Part 3)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "159.00",
             "series_id": 2,
             "release_date": 1684800000,
@@ -1657,9 +1436,7 @@
             "likes": 0,
             "token": "957103ed5f4e34b1",
             "title": "The Strongest Sacrifice (Part 2)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "158.00",
             "series_id": 2,
             "release_date": 1684195200,
@@ -1670,9 +1447,7 @@
             "likes": 0,
             "token": "c80e5842893bad03",
             "title": "The Strongest Sacrifice (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "157.00",
             "series_id": 2,
             "release_date": 1683590400,
@@ -1683,9 +1458,7 @@
             "likes": 0,
             "token": "9a1cef87c29ac58e",
             "title": "Unreadable (Part 4)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "156.00",
             "series_id": 2,
             "release_date": 1682985600,
@@ -1696,9 +1469,7 @@
             "likes": 0,
             "token": "74a5d229446d4ff5",
             "title": "Unreadable (Part 3)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "155.00",
             "series_id": 2,
             "release_date": 1682380800,
@@ -1709,9 +1480,7 @@
             "likes": 0,
             "token": "6d79095c81133057",
             "title": "Unreadable (Part 2)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "154.00",
             "series_id": 2,
             "release_date": 1681776000,
@@ -1722,9 +1491,7 @@
             "likes": 0,
             "token": "630ad59a606a41d6",
             "title": "Unreadable (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "153.00",
             "series_id": 2,
             "release_date": 1681171200,
@@ -1735,9 +1502,7 @@
             "likes": 0,
             "token": "bb86620ed872837a",
             "title": "Scenario Destroyer (Part 9)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "152.00",
             "series_id": 2,
             "release_date": 1680566400,
@@ -1748,9 +1513,7 @@
             "likes": 0,
             "token": "8005ea2c7c4fb897",
             "title": "Scenario Destroyer (Part 8)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "151.00",
             "series_id": 2,
             "release_date": 1679961600,
@@ -1761,9 +1524,7 @@
             "likes": 0,
             "token": "682a4d44f6b06b51",
             "title": "Scenario Destroyer (Part 7)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "150.00",
             "series_id": 2,
             "release_date": 1679356800,
@@ -1774,9 +1535,7 @@
             "likes": 0,
             "token": "6bcf21ef6ba2685e",
             "title": "Scenario Destroyer (Part 6)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "149.00",
             "series_id": 2,
             "release_date": 1678752000,
@@ -1787,9 +1546,7 @@
             "likes": 0,
             "token": "028c20ded5a9e8fc",
             "title": "Scenario Destroyer (Part 5)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "148.00",
             "series_id": 2,
             "release_date": 1678147200,
@@ -1800,9 +1557,7 @@
             "likes": 0,
             "token": "fdcfef72fa068814",
             "title": "Scenario Destroyer (Part 4)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "147.00",
             "series_id": 2,
             "release_date": 1677542400,
@@ -1813,9 +1568,7 @@
             "likes": 0,
             "token": "d6b0f198a8f254e9",
             "title": "Scenario Destroyer (Part 3)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "146.00",
             "series_id": 2,
             "release_date": 1732682983,
@@ -1826,9 +1579,7 @@
             "likes": 0,
             "token": "e19ce481a1bce0ca",
             "title": "Scenario Destroyer (Part 2)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "145.00",
             "series_id": 2,
             "release_date": 1676332800,
@@ -1839,9 +1590,7 @@
             "likes": 0,
             "token": "fab2f9130b613f18",
             "title": "Scenario Destroyer (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "144.00",
             "series_id": 2,
             "release_date": 1675728000,
@@ -1852,9 +1601,7 @@
             "likes": 0,
             "token": "585d155dc60838fa",
             "title": "Those Who Face a God (Part 9)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "143.00",
             "series_id": 2,
             "release_date": 1675123200,
@@ -1865,9 +1612,7 @@
             "likes": 0,
             "token": "b40b449c1b019c73",
             "title": "Those Who Face a God (Part 8)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "142.00",
             "series_id": 2,
             "release_date": 1673913600,
@@ -1878,9 +1623,7 @@
             "likes": 0,
             "token": "de714b03ba3508ca",
             "title": "Those Who Face a God (Part 7)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "141.00",
             "series_id": 2,
             "release_date": 1673308800,
@@ -1891,9 +1634,7 @@
             "likes": 0,
             "token": "7f6cfc7d52d22722",
             "title": "Those Who Face a God (Part 6)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "140.00",
             "series_id": 2,
             "release_date": 1672704000,
@@ -1904,9 +1645,7 @@
             "likes": 0,
             "token": "8976eaf237bdfb28",
             "title": "Those Who Face a God (Part 5)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "139.00",
             "series_id": 2,
             "release_date": 1672099200,
@@ -1917,9 +1656,7 @@
             "likes": 0,
             "token": "2d73406e23aeea03",
             "title": "Those Who Face a God (Part 4)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "138.00",
             "series_id": 2,
             "release_date": 1671753600,
@@ -1930,9 +1667,7 @@
             "likes": 0,
             "token": "a6ede927795a69ad",
             "title": "Those Who Face a God (Part 3)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "137.00",
             "series_id": 2,
             "release_date": 1671148800,
@@ -1943,9 +1678,7 @@
             "likes": 0,
             "token": "6a739b3eb58a7e45",
             "title": "Those Who Face a God (Part 2)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "136.00",
             "series_id": 2,
             "release_date": 1670457600,
@@ -1956,9 +1689,7 @@
             "likes": 0,
             "token": "b89b1013b0dec5d1",
             "title": "Those Who Face a God (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "135.00",
             "series_id": 2,
             "release_date": 1670025600,
@@ -1969,9 +1700,7 @@
             "likes": 0,
             "token": "2081103b6958cf2e",
             "title": "What is possible to change (Part 9)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "134.00",
             "series_id": 2,
             "release_date": 1669766400,
@@ -1982,9 +1711,7 @@
             "likes": 0,
             "token": "25066d582b3c8f47",
             "title": "What is possible to change (Part 8)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "133.00",
             "series_id": 2,
             "release_date": 1669248000,
@@ -1995,9 +1722,7 @@
             "likes": 0,
             "token": "66ab37cac014eb35",
             "title": "What is possible to change (Part 7)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "132.00",
             "series_id": 2,
             "release_date": 1669161600,
@@ -2008,9 +1733,7 @@
             "likes": 0,
             "token": "55ba6a14a8dba8ad",
             "title": "What is possible to change (Part 6)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "131.00",
             "series_id": 2,
             "release_date": 1667952000,
@@ -2021,9 +1744,7 @@
             "likes": 0,
             "token": "1ae2ad364c31157d",
             "title": "What is possible to change (Part 5)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "130.00",
             "series_id": 2,
             "release_date": 1667347200,
@@ -2034,9 +1755,7 @@
             "likes": 0,
             "token": "90a940f79cf7a785",
             "title": "What is possible to change (Part 4)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "129.00",
             "series_id": 2,
             "release_date": 1666656000,
@@ -2047,9 +1766,7 @@
             "likes": 0,
             "token": "93db367ae1eec9c6",
             "title": "What is possible to change (Part 3)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "128.00",
             "series_id": 2,
             "release_date": 1665964800,
@@ -2060,9 +1777,7 @@
             "likes": 0,
             "token": "8c9d3790bafb91d8",
             "title": "What is possible to change (Part 2)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "127.00",
             "series_id": 2,
             "release_date": 1665100800,
@@ -2073,9 +1788,7 @@
             "likes": 0,
             "token": "dc95aeb60b0688de",
             "title": "What is possible to change (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "126.00",
             "series_id": 2,
             "release_date": 1664582400,
@@ -2086,9 +1799,7 @@
             "likes": 0,
             "token": "5a322df4e2c8145f",
             "title": "An Abandoned World (Part 9)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "125.00",
             "series_id": 2,
             "release_date": 1664064000,
@@ -2099,9 +1810,7 @@
             "likes": 0,
             "token": "0b2d66b56f4771c2",
             "title": "An Abandoned World (Part 8)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "124.00",
             "series_id": 2,
             "release_date": 1663632000,
@@ -2112,9 +1821,7 @@
             "likes": 0,
             "token": "bd5c2550f9546b25",
             "title": "An Abandoned World (Part 7)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "123.00",
             "series_id": 2,
             "release_date": 1662940800,
@@ -2125,9 +1832,7 @@
             "likes": 0,
             "token": "48818a4f717f2945",
             "title": "An Abandoned World (Part 6)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "122.00",
             "series_id": 2,
             "release_date": 1662249600,
@@ -2138,9 +1843,7 @@
             "likes": 0,
             "token": "a6cd35c37bca4f48",
             "title": "An Abandoned World (Part 5)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "121.00",
             "series_id": 2,
             "release_date": 1661731200,
@@ -2151,9 +1854,7 @@
             "likes": 0,
             "token": "afc142d13e5b2b50",
             "title": "An Abandoned World (Part 4)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "120.00",
             "series_id": 2,
             "release_date": 1660780800,
@@ -2164,9 +1865,7 @@
             "likes": 0,
             "token": "174407c93de81a24",
             "title": "An Abandoned World (Part 3)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "119.00",
             "series_id": 2,
             "release_date": 1660348800,
@@ -2177,9 +1876,7 @@
             "likes": 0,
             "token": "f2e4f1e824bdf052",
             "title": "An Abandoned World (Part 2)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "118.00",
             "series_id": 2,
             "release_date": 1659657600,
@@ -2190,9 +1887,7 @@
             "likes": 0,
             "token": "79fdff66b0616825",
             "title": "An Abandoned World (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "117.00",
             "series_id": 2,
             "release_date": 1658880000,
@@ -2203,9 +1898,7 @@
             "likes": 0,
             "token": "5d0d65a491b3c27d",
             "title": "Three Promises (Part 9)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "116.00",
             "series_id": 2,
             "release_date": 1658361600,
@@ -2216,9 +1909,7 @@
             "likes": 0,
             "token": "345f434524563b4b",
             "title": "Three Promises (Part 8)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "115.00",
             "series_id": 2,
             "release_date": 1658102400,
@@ -2229,9 +1920,7 @@
             "likes": 0,
             "token": "0e07e1ca03b4810c",
             "title": "Three Promises (Part 7)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "114.00",
             "series_id": 2,
             "release_date": 1732683687,
@@ -2242,9 +1931,7 @@
             "likes": 0,
             "token": "35fa96a5eb39f63e",
             "title": "Three Promises (Part 6)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "113.00",
             "series_id": 2,
             "release_date": 1656720000,
@@ -2255,9 +1942,7 @@
             "likes": 0,
             "token": "33dc0588bf28a630",
             "title": "Three Promises (Part 5)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "112.00",
             "series_id": 2,
             "release_date": 1655942400,
@@ -2268,9 +1953,7 @@
             "likes": 0,
             "token": "426cb5d88fb8f7d6",
             "title": "Three Promises (Part 4)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "111.00",
             "series_id": 2,
             "release_date": 1655337600,
@@ -2281,9 +1964,7 @@
             "likes": 0,
             "token": "4cb3d16a95964424",
             "title": "Three Promises (Part 3)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "110.00",
             "series_id": 2,
             "release_date": 1654819200,
@@ -2294,9 +1975,7 @@
             "likes": 0,
             "token": "cc4f83401e902873",
             "title": "Three Promises (Part 2)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "109.00",
             "series_id": 2,
             "release_date": 1654041600,
@@ -2307,9 +1986,7 @@
             "likes": 0,
             "token": "6d49ba0837dacab8",
             "title": "Three Promises (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "108.00",
             "series_id": 2,
             "release_date": 1653436800,
@@ -2320,9 +1997,7 @@
             "likes": 0,
             "token": "1cc927d29a459db9",
             "title": "What remains unchanging (Part 9)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "107.00",
             "series_id": 2,
             "release_date": 1652918400,
@@ -2333,9 +2008,7 @@
             "likes": 0,
             "token": "19dbac7eba8c5b9f",
             "title": "What remains unchanging (Part 8)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "106.00",
             "series_id": 2,
             "release_date": 1652486400,
@@ -2346,9 +2019,7 @@
             "likes": 0,
             "token": "3d106f14371924a9",
             "title": "What remains unchanging (Part 7)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "105.00",
             "series_id": 2,
             "release_date": 1652054400,
@@ -2359,9 +2030,7 @@
             "likes": 0,
             "token": "ea4593b7973337a4",
             "title": "What remains unchanging (Part 6)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "104.00",
             "series_id": 2,
             "release_date": 1650758400,
@@ -2372,9 +2041,7 @@
             "likes": 0,
             "token": "e335186b8a47503e",
             "title": "What remains unchanging (Part 5)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "103.00",
             "series_id": 2,
             "release_date": 1650240000,
@@ -2385,9 +2052,7 @@
             "likes": 0,
             "token": "ef70590d24f88de9",
             "title": "What remains unchanging (Part 4)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "102.00",
             "series_id": 2,
             "release_date": 1649721600,
@@ -2398,9 +2063,7 @@
             "likes": 0,
             "token": "0cdb5fcaefed6846",
             "title": "What remains unchanging (Part 3)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "101.00",
             "series_id": 2,
             "release_date": 1649116800,
@@ -2411,9 +2074,7 @@
             "likes": 0,
             "token": "e35625f051ad1600",
             "title": "What remains unchanging (Part 2)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "100.00",
             "series_id": 2,
             "release_date": 1648252800,
@@ -2424,9 +2085,7 @@
             "likes": 0,
             "token": "c6a799811e4ab7ed",
             "title": "What remains unchanging (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "99.00",
             "series_id": 2,
             "release_date": 1647820800,
@@ -2437,9 +2096,7 @@
             "likes": 0,
             "token": "657fbc22357a9e8f",
             "title": "The Disaster of Floods (Part 6)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "98.00",
             "series_id": 2,
             "release_date": 1647216000,
@@ -2450,9 +2107,7 @@
             "likes": 0,
             "token": "a02feae07c1454ca",
             "title": "The Disaster of Floods (Part 5)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "97.00",
             "series_id": 2,
             "release_date": 1646697600,
@@ -2463,9 +2118,7 @@
             "likes": 0,
             "token": "2548b1b6af16b74c",
             "title": "The Disaster of Floods (Part 4)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "96.00",
             "series_id": 2,
             "release_date": 1646092800,
@@ -2476,9 +2129,7 @@
             "likes": 0,
             "token": "2846946d04dc87a0",
             "title": "The Disaster of Floods (Part 3)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "95.00",
             "series_id": 2,
             "release_date": 1645315200,
@@ -2489,9 +2140,7 @@
             "likes": 0,
             "token": "ed7a2255bf16a943",
             "title": "The Disaster of Floods (Part 2)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "94.00",
             "series_id": 2,
             "release_date": 1644710400,
@@ -2502,9 +2151,7 @@
             "likes": 0,
             "token": "6e375a0c653405d2",
             "title": "The Disaster of Floods (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "93.00",
             "series_id": 2,
             "release_date": 1644192000,
@@ -2515,9 +2162,7 @@
             "likes": 0,
             "token": "d1273c4e07476004",
             "title": "Singularity (Part 6)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "92.00",
             "series_id": 2,
             "release_date": 1643587200,
@@ -2528,9 +2173,7 @@
             "likes": 0,
             "token": "d6920df7756194e4",
             "title": "Singularity (Part 5)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "91.00",
             "series_id": 2,
             "release_date": 1642982400,
@@ -2541,9 +2184,7 @@
             "likes": 0,
             "token": "344e7ad71e72188d",
             "title": "Singularity (Part 4)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "90.00",
             "series_id": 2,
             "release_date": 1642291200,
@@ -2554,9 +2195,7 @@
             "likes": 0,
             "token": "33a308cb81f6f295",
             "title": "Singularity (Part 3)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "89.00",
             "series_id": 2,
             "release_date": 1641686400,
@@ -2567,9 +2206,7 @@
             "likes": 0,
             "token": "3dc358ad5e13a7f0",
             "title": "Singularity (Part 2)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "88.00",
             "series_id": 2,
             "release_date": 1641168000,
@@ -2580,9 +2217,7 @@
             "likes": 0,
             "token": "272b02c1b9bf89f4",
             "title": "Singularity (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "87.00",
             "series_id": 2,
             "release_date": 1640390400,
@@ -2593,9 +2228,7 @@
             "likes": 0,
             "token": "2ae67caa41c329be",
             "title": "A Reader's Fight (Part 4)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "86.00",
             "series_id": 2,
             "release_date": 1639872000,
@@ -2606,9 +2239,7 @@
             "likes": 0,
             "token": "d96d1d1e94e342f9",
             "title": "A Reader's Fight (Part 3)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "85.00",
             "series_id": 2,
             "release_date": 1639180800,
@@ -2619,9 +2250,7 @@
             "likes": 0,
             "token": "9c0c871ce9e572fa",
             "title": "A Reader's Fight (Part 2)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "84.00",
             "series_id": 2,
             "release_date": 1638576000,
@@ -2632,9 +2261,7 @@
             "likes": 0,
             "token": "e813186902322f0e",
             "title": "A Reader's Fight (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "83.00",
             "series_id": 2,
             "release_date": 1638057600,
@@ -2645,9 +2272,7 @@
             "likes": 0,
             "token": "f8c5dab064a038e6",
             "title": "SSS-Grade Talent (Part 6)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "82.00",
             "series_id": 2,
             "release_date": 1637366400,
@@ -2658,9 +2283,7 @@
             "likes": 0,
             "token": "dc49f3201fcf3272",
             "title": "SSS-Grade Talent (Part 5)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "81.00",
             "series_id": 2,
             "release_date": 1636675200,
@@ -2671,9 +2294,7 @@
             "likes": 0,
             "token": "e74b31fb096b0d9e",
             "title": "SSS-Grade Talent (Part 4)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "80.00",
             "series_id": 2,
             "release_date": 1636416000,
@@ -2684,9 +2305,7 @@
             "likes": 0,
             "token": "96f723b54db50bd7",
             "title": "SSS-Grade Talent (Part 3)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "79.00",
             "series_id": 2,
             "release_date": 1635811200,
@@ -2697,9 +2316,7 @@
             "likes": 0,
             "token": "37a3df2a827ac2b3",
             "title": "SSS-Grade Talent (Part 2)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "78.00",
             "series_id": 2,
             "release_date": 1635033600,
@@ -2710,9 +2327,7 @@
             "likes": 0,
             "token": "f0fd03b979f8b8cf",
             "title": "SSS-Grade Talent (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "77.00",
             "series_id": 2,
             "release_date": 1634256000,
@@ -2723,9 +2338,7 @@
             "likes": 0,
             "token": "76566496cdfc0b9b",
             "title": "The Fifth Scenario (Part 4)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "76.00",
             "series_id": 2,
             "release_date": 1633824000,
@@ -2736,9 +2349,7 @@
             "likes": 0,
             "token": "30bea481bbcc0434",
             "title": "The Fifth Scenario (Part 3)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "75.00",
             "series_id": 2,
             "release_date": 1633132800,
@@ -2749,9 +2360,7 @@
             "likes": 0,
             "token": "e0edfb62ff12ddc2",
             "title": "The Fifth Scenario (Part 2)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "74.00",
             "series_id": 2,
             "release_date": 1632528000,
@@ -2762,9 +2371,7 @@
             "likes": 0,
             "token": "a2fc18f1db576501",
             "title": "The Fifth Scenario (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "73.00",
             "series_id": 2,
             "release_date": 1631836800,
@@ -2775,9 +2382,7 @@
             "likes": 0,
             "token": "5629e2ae5350ad49",
             "title": "A Kingless World (Part 8)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "72.00",
             "series_id": 2,
             "release_date": 1631145600,
@@ -2788,9 +2393,7 @@
             "likes": 0,
             "token": "7d6d7a9371ab2b8a",
             "title": "A Kingless World (Part 7)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "71.00",
             "series_id": 2,
             "release_date": 1630713600,
@@ -2801,9 +2404,7 @@
             "likes": 0,
             "token": "9bdf901e2ac3ed24",
             "title": "A Kingless World (Part 6)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "70.00",
             "series_id": 2,
             "release_date": 1630108800,
@@ -2814,9 +2415,7 @@
             "likes": 0,
             "token": "76d2dd99a59bd855",
             "title": "A Kingless World (Part 5)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "69.00",
             "series_id": 2,
             "release_date": 1629504000,
@@ -2827,9 +2426,7 @@
             "likes": 0,
             "token": "35c062edbe88b4b3",
             "title": "A Kingless World (Part 4)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "68.00",
             "series_id": 2,
             "release_date": 1628726400,
@@ -2840,9 +2437,7 @@
             "likes": 0,
             "token": "f108b21b2c4d981b",
             "title": "A Kingless World (Part 3)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "67.00",
             "series_id": 2,
             "release_date": 1628294400,
@@ -2853,9 +2448,7 @@
             "likes": 0,
             "token": "390999de7a89c5d6",
             "title": "A Kingless World (Part 2)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "66.00",
             "series_id": 2,
             "release_date": 1627603200,
@@ -2866,9 +2459,7 @@
             "likes": 0,
             "token": "828e6a63ccb7d1d3",
             "title": "A Kingless World (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "65.00",
             "series_id": 2,
             "release_date": 1627171200,
@@ -2879,9 +2470,7 @@
             "likes": 0,
             "token": "d74a69e5ca7f9c0d",
             "title": "Master of the Throne (Part 4)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "64.00",
             "series_id": 2,
             "release_date": 1626652800,
@@ -2892,9 +2481,7 @@
             "likes": 0,
             "token": "78325621e8797d10",
             "title": "Master of the Throne (Part 3)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "63.00",
             "series_id": 2,
             "release_date": 1625961600,
@@ -2905,9 +2492,7 @@
             "likes": 0,
             "token": "c1286ccbcc398ed8",
             "title": "Master of the Throne (Part 2)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "62.00",
             "series_id": 2,
             "release_date": 1625356800,
@@ -2918,9 +2503,7 @@
             "likes": 0,
             "token": "9cb92ed837a98681",
             "title": "Master of the Throne (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "61.00",
             "series_id": 2,
             "release_date": 1624752000,
@@ -2931,9 +2514,7 @@
             "likes": 0,
             "token": "2f4d300fe4689ef3",
             "title": "War of Rulers (Part 4)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "60.00",
             "series_id": 2,
             "release_date": 1624147200,
@@ -2944,9 +2525,7 @@
             "likes": 0,
             "token": "cf16cd4c02925841",
             "title": "War of Rulers (Part 3)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "59.00",
             "series_id": 2,
             "release_date": 1623369600,
@@ -2957,9 +2536,7 @@
             "likes": 0,
             "token": "a6957cab02c391c7",
             "title": "War of Rulers (Part 2)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "58.00",
             "series_id": 2,
             "release_date": 1622937600,
@@ -2970,9 +2547,7 @@
             "likes": 0,
             "token": "86cdd47ac184d904",
             "title": "War of Rulers (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "57.00",
             "series_id": 2,
             "release_date": 1622937600,
@@ -2983,9 +2558,7 @@
             "likes": 0,
             "token": "4692b711cce930ef",
             "title": "First Person Protagonist's Viewpoint (Part 4)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "56.00",
             "series_id": 2,
             "release_date": 1621036800,
@@ -2996,9 +2569,7 @@
             "likes": 0,
             "token": "d30f5c1a3dbfcc45",
             "title": "First Person Protagonist's Viewpoint (Part 3)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "55.00",
             "series_id": 2,
             "release_date": 1620604800,
@@ -3009,9 +2580,7 @@
             "likes": 0,
             "token": "3b05fc251e3a69fc",
             "title": "First Person Protagonist's Viewpoint (Part 2)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "54.00",
             "series_id": 2,
             "release_date": 1620086400,
@@ -3022,9 +2591,7 @@
             "likes": 0,
             "token": "857952cb970fc5a5",
             "title": "First Person Protagonist's Viewpoint (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "53.00",
             "series_id": 2,
             "release_date": 1619654400,
@@ -3035,9 +2602,7 @@
             "likes": 0,
             "token": "c2b1aad056f023a4",
             "title": "Night of the Prophets (Part 4)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "52.00",
             "series_id": 2,
             "release_date": 1619654400,
@@ -3048,9 +2613,7 @@
             "likes": 0,
             "token": "b51b47f915586568",
             "title": "Night of the Prophets (Part 3)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "51.00",
             "series_id": 2,
             "release_date": 1617840000,
@@ -3061,9 +2624,7 @@
             "likes": 0,
             "token": "6c542bd5d5176401",
             "title": "Night of the Prophets (Part 2)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "50.00",
             "series_id": 2,
             "release_date": 1617235200,
@@ -3074,9 +2635,7 @@
             "likes": 0,
             "token": "f8d07915fdbf53f6",
             "title": "Night of the Prophets (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "49.00",
             "series_id": 2,
             "release_date": 1616630400,
@@ -3087,9 +2646,7 @@
             "likes": 0,
             "token": "dcd8361e9b07925a",
             "title": "Future War (Part 5)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "48.00",
             "series_id": 2,
             "release_date": 1732683634,
@@ -3100,9 +2657,7 @@
             "likes": 0,
             "token": "50b837d545830a65",
             "title": "Future War (Part 4)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "47.00",
             "series_id": 2,
             "release_date": 1615420800,
@@ -3113,9 +2668,7 @@
             "likes": 0,
             "token": "a849e5234602138d",
             "title": "Future War (Part 3)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "46.00",
             "series_id": 2,
             "release_date": 1614816000,
@@ -3126,9 +2679,7 @@
             "likes": 0,
             "token": "128258cc2ed29b08",
             "title": "Future War (Part 2)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "45.00",
             "series_id": 2,
             "release_date": 1614211200,
@@ -3139,9 +2690,7 @@
             "likes": 0,
             "token": "27de5c6b746e67f9",
             "title": "Future War (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "44.00",
             "series_id": 2,
             "release_date": 1613606400,
@@ -3152,9 +2701,7 @@
             "likes": 0,
             "token": "42cd82ce190f28ed",
             "title": "Omniscient Sunfish (Part 7)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "43.00",
             "series_id": 2,
             "release_date": 1612915200,
@@ -3165,9 +2712,7 @@
             "likes": 0,
             "token": "24ddd8f96913d64f",
             "title": "Omniscient Sunfish (Part 6)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "42.00",
             "series_id": 2,
             "release_date": 1612310400,
@@ -3178,9 +2723,7 @@
             "likes": 0,
             "token": "2e1b387eeef24bd1",
             "title": "Omniscient Sunfish (Part 5)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "41.00",
             "series_id": 2,
             "release_date": 1611878400,
@@ -3191,9 +2734,7 @@
             "likes": 0,
             "token": "be9cf4466ee275ba",
             "title": "Omniscient Sunfish (Part 4)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "40.00",
             "series_id": 2,
             "release_date": 1611878400,
@@ -3204,9 +2745,7 @@
             "likes": 0,
             "token": "a7e4d21287420755",
             "title": "Omniscient Sunfish (Part 3)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "39.00",
             "series_id": 2,
             "release_date": 1611878400,
@@ -3217,9 +2756,7 @@
             "likes": 0,
             "token": "ce49a737bca6d967",
             "title": "Omniscient Sunfish (Part 2)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "38.00",
             "series_id": 2,
             "release_date": 1611878400,
@@ -3230,9 +2767,7 @@
             "likes": 0,
             "token": "b72ae487c075312d",
             "title": "Omniscient Sunfish (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "37.00",
             "series_id": 2,
             "release_date": 1611878400,
@@ -3243,9 +2778,7 @@
             "likes": 0,
             "token": "09f7493772129f88",
             "title": "Emergency Defense (Part 4)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "36.00",
             "series_id": 2,
             "release_date": 1611878400,
@@ -3256,9 +2789,7 @@
             "likes": 0,
             "token": "2071981d02b1f40b",
             "title": "Emergency Defense (Part 3)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "35.00",
             "series_id": 2,
             "release_date": 1611878400,
@@ -3269,9 +2800,7 @@
             "likes": 0,
             "token": "52b16095d0517460",
             "title": "Emergency Defense (Part 2)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "34.00",
             "series_id": 2,
             "release_date": 1611878400,
@@ -3282,9 +2811,7 @@
             "likes": 0,
             "token": "918d95d41b46a1b5",
             "title": "Emergency Defense (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "33.00",
             "series_id": 2,
             "release_date": 1611878400,
@@ -3295,9 +2822,7 @@
             "likes": 0,
             "token": "7c4f03c7ee8408fc",
             "title": "Landlord (Part 6)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "32.00",
             "series_id": 2,
             "release_date": 1611878400,
@@ -3308,9 +2833,7 @@
             "likes": 0,
             "token": "8812ea6abc6e62ac",
             "title": "Landlord (Part 5)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "31.00",
             "series_id": 2,
             "release_date": 1611878400,
@@ -3321,9 +2844,7 @@
             "likes": 0,
             "token": "927f6aaa567cf16c",
             "title": "Landlord (Part 4)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "30.00",
             "series_id": 2,
             "release_date": 1611878400,
@@ -3334,9 +2855,7 @@
             "likes": 0,
             "token": "95deecd0fc30604d",
             "title": "Landlord (Part 3)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "29.00",
             "series_id": 2,
             "release_date": 1611878400,
@@ -3347,9 +2866,7 @@
             "likes": 0,
             "token": "1fd5df8406374472",
             "title": "Landlord (Part 2)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "28.00",
             "series_id": 2,
             "release_date": 1611878400,
@@ -3360,9 +2877,7 @@
             "likes": 0,
             "token": "75ecc9eb99b51db5",
             "title": "Landlord (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "27.00",
             "series_id": 2,
             "release_date": 1611878400,
@@ -3373,9 +2888,7 @@
             "likes": 0,
             "token": "b17d722867530b41",
             "title": "The Time of Judgement (Part 5)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "26.00",
             "series_id": 2,
             "release_date": 1611878400,
@@ -3386,9 +2899,7 @@
             "likes": 0,
             "token": "8085981a6f7eabf7",
             "title": "The Time of Judgement (Part 4)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "25.00",
             "series_id": 2,
             "release_date": 1611792000,
@@ -3399,9 +2910,7 @@
             "likes": 0,
             "token": "4136104d2ba6fb71",
             "title": "The Time of Judgement (Part 3)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "24.00",
             "series_id": 2,
             "release_date": 1611792000,
@@ -3412,9 +2921,7 @@
             "likes": 0,
             "token": "da496b90cb7f90df",
             "title": "The Time of Judgement (Part 2)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "23.00",
             "series_id": 2,
             "release_date": 1611792000,
@@ -3425,9 +2932,7 @@
             "likes": 0,
             "token": "211cd4ba27dcff38",
             "title": "The Time of Judgement (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "22.00",
             "series_id": 2,
             "release_date": 1611792000,
@@ -3438,9 +2943,7 @@
             "likes": 0,
             "token": "86337b91352ea5e0",
             "title": "Dark Sentinel (Part 3)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "21.00",
             "series_id": 2,
             "release_date": 1611792000,
@@ -3451,9 +2954,7 @@
             "likes": 0,
             "token": "5f134611a98936a7",
             "title": "Dark Sentinel (Part 2)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "20.00",
             "series_id": 2,
             "release_date": 1611792000,
@@ -3464,9 +2965,7 @@
             "likes": 0,
             "token": "ad10b10b5fcfa336",
             "title": "Dark Sentinel (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "19.00",
             "series_id": 2,
             "release_date": 1611792000,
@@ -3477,9 +2976,7 @@
             "likes": 0,
             "token": "ec3916134ee9a3c6",
             "title": "Line of Hypocrisy (Part 3)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "18.00",
             "series_id": 2,
             "release_date": 1611792000,
@@ -3490,9 +2987,7 @@
             "likes": 0,
             "token": "643b99014cc39227",
             "title": "Line of Hypocrisy (Part 2)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "17.00",
             "series_id": 2,
             "release_date": 1611792000,
@@ -3503,9 +2998,7 @@
             "likes": 0,
             "token": "abb0d451765c8c9a",
             "title": "Line of Hypocrisy (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "16.00",
             "series_id": 2,
             "release_date": 1611792000,
@@ -3516,9 +3009,7 @@
             "likes": 0,
             "token": "c9afc2ba3f227f86",
             "title": "Contract (Part 3)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "15.00",
             "series_id": 2,
             "release_date": 1611792000,
@@ -3529,9 +3020,7 @@
             "likes": 0,
             "token": "19cde4717253c2d1",
             "title": "Contract (Part 2)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "14.00",
             "series_id": 2,
             "release_date": 1611792000,
@@ -3542,9 +3031,7 @@
             "likes": 0,
             "token": "932034269716cd01",
             "title": "Contract (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "13.00",
             "series_id": 2,
             "release_date": 1611792000,
@@ -3555,9 +3042,7 @@
             "likes": 0,
             "token": "1ebb6b25f59aa36c",
             "title": "Protagonist (Part 6)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "12.00",
             "series_id": 2,
             "release_date": 1611792000,
@@ -3568,9 +3053,7 @@
             "likes": 0,
             "token": "1169b237620053da",
             "title": "Protagonist (Part 5)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "11.00",
             "series_id": 2,
             "release_date": 1611792000,
@@ -3581,9 +3064,7 @@
             "likes": 0,
             "token": "0726a8a388745d30",
             "title": "Protagonist (Part 4)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "10.00",
             "series_id": 2,
             "release_date": 1611792000,
@@ -3594,9 +3075,7 @@
             "likes": 0,
             "token": "185d3562dda353a1",
             "title": "Protagonist (Part 3)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "9.00",
             "series_id": 2,
             "release_date": 1611792000,
@@ -3607,9 +3086,7 @@
             "likes": 0,
             "token": "d4bcfd28399e7b5d",
             "title": "Protagonist (Part 2)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "8.00",
             "series_id": 2,
             "release_date": 1611792000,
@@ -3620,9 +3097,7 @@
             "likes": 0,
             "token": "dba53839f89ad877",
             "title": "Protagonist (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "7.00",
             "series_id": 2,
             "release_date": 1611792000,
@@ -3633,9 +3108,7 @@
             "likes": 0,
             "token": "f29f0bd996f39fd0",
             "title": "Paid Service Begins (Part 5)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "6.00",
             "series_id": 2,
             "release_date": 1611792000,
@@ -3646,9 +3119,7 @@
             "likes": 0,
             "token": "f9ba84b11a13eec4",
             "title": "Paid Service Begins (Part 4)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "5.00",
             "series_id": 2,
             "release_date": 1611792000,
@@ -3659,9 +3130,7 @@
             "likes": 0,
             "token": "e334f7328fa17bd5",
             "title": "Paid Service Begins (Part 3)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "4.00",
             "series_id": 2,
             "release_date": 1611792000,
@@ -3672,9 +3141,7 @@
             "likes": 0,
             "token": "8eea03103a42dfdf",
             "title": "Paid Service Begins (Part 2)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "3.00",
             "series_id": 2,
             "release_date": 1611792000,
@@ -3685,9 +3152,7 @@
             "likes": 0,
             "token": "5ace1d68458ccce0",
             "title": "Paid Service Begins (Part 1)",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "2.00",
             "series_id": 2,
             "release_date": 1611792000,
@@ -3698,9 +3163,7 @@
             "likes": 0,
             "token": "b3efed246c5ee10d",
             "title": "Three Ways to Survive in a Ruined World",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "1.00",
             "series_id": 2,
             "release_date": 1611792000,
@@ -3722,9 +3185,7 @@
             "likes": 0,
             "token": "0c9db8012fbd1257",
             "title": "Prologue",
-            "cover": {
-                "cover": "cover.png"
-            },
+            "cover": 1,
             "chapter": "0.00",
             "series_id": 2,
             "release_date": 1611792000,
