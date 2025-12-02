@@ -1,6 +1,15 @@
 {
-    "chid": "11.00",
+    "chid": "12.00",
     "data": [
+        {
+            "chapter_id": 10999,
+            "token": "0dce7cc0cc66c84b",
+            "title": "Character (Part 4)",
+            "cover": 1,
+            "chapter": "290.00",
+            "series_id": 2,
+            "release_date": 1764104822
+        },
         {
             "chapter_id": 10970,
             "token": "1f523ba0e4b2b579",
@@ -2601,15 +2610,6 @@
             "chapter": "1.00",
             "series_id": 2,
             "release_date": 1611792000
-        },
-        {
-            "chapter_id": 1678,
-            "token": "b13896619320cdb7",
-            "title": "Where does this belong?",
-            "cover": null,
-            "chapter": "0.50",
-            "series_id": 2,
-            "release_date": 1732178940
         },
         {
             "chapter_id": 1768,
