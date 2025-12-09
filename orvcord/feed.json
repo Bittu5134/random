@@ -1,6 +1,15 @@
 {
-    "chid": "12.00",
+    "chid": "13.00",
     "data": [
+        {
+            "chapter_id": 11022,
+            "token": "eb9c5c06248a00f2",
+            "title": "The Best at Something (Part 1)",
+            "cover": 1,
+            "chapter": "291.00",
+            "series_id": 2,
+            "release_date": 1764713217
+        },
         {
             "chapter_id": 10999,
             "token": "0dce7cc0cc66c84b",
