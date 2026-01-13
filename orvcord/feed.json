@@ -1,6 +1,33 @@
 {
-    "chid": "17.00",
+    "chid": "18.00",
     "data": [
+        {
+            "chapter_id": 11149,
+            "token": "e7c6d49e410d9d00",
+            "title": "The Best at Something (Part 6)",
+            "cover": 1,
+            "chapter": "296.00",
+            "series_id": 2,
+            "release_date": 1767795832
+        },
+        {
+            "chapter_id": 11147,
+            "token": "97da090c6470886c",
+            "title": "The Best at Something (Part 5)",
+            "cover": 1,
+            "chapter": "295.00",
+            "series_id": 2,
+            "release_date": 1767795768
+        },
+        {
+            "chapter_id": 11146,
+            "token": "64a5e79fbad2735c",
+            "title": "The Best at Something (Part 4)",
+            "cover": 1,
+            "chapter": "294.00",
+            "series_id": 2,
+            "release_date": 1767779911
+        },
         {
             "chapter_id": 11070,
             "token": "e261ed28b2301930",
