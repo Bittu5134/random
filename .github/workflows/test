@@ -1,0 +1,18 @@
+name: Remote Follower Alert
+
+on:
+  # This allows the 'workflow_dispatch' API call to trigger this specific file
+  workflow_dispatch:
+    inputs:
+      data:
+        description: 'JSON string containing follower details'
+        required: true
+        type: string
+
+jobs:
+  process_follower:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Log Incoming Payload
+        run: |
+          echo "Received raw data: ${{ github.event.inputs.data }}"
